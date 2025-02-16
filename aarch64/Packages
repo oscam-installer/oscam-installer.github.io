@@ -7,11 +7,11 @@ Source: https://i.tv-lounge.eu
 Maintainer: OSCam-Installer <oscam-installer@proton.me>
 Depends:
 Filename: ./enigma2-plugin-extensions-oscam-installer-oscam-emu.deb
-Size: 3832604
-MD5sum: d680e774f6ee7e9dbceab912451017b2
-SHA1: c57005037c1fdbb0ae95658aff2878a4a6767580
-SHA256: 13b13a57931bffead511465c035e9571b5bb0270563177ee94f5013a73af62e4
-SHA512: 6746ac79a7be8e45eb9ceb8651668fc81d1b400c4afbd5d0bf6f1d2c128920999d7368acf26a85ad8024127e8ad6bc27184fce3d3c84826d62de1ca815353c19
+Size: 3832524
+MD5sum: 24cce064a179917841e10e36c6a5164f
+SHA1: cf768ea107e7acfc832367d8ebbc9c751c64b125
+SHA256: 24441d992dee1d5459d24d56d7ce9213efa28d383ffe2e037bc0a9bf4c9efe82
+SHA512: 39dc7f8e2147be58d265650f7db835eeb32042a2ff51467d18e58c1c128cfd0ab97d7098a61b1bf66f5026f521e1475dda615c5a2f95a9a46be74f6432b5fe0c
 Homepage: https://i.tv-lounge.eu
 Description: enigma2-plugin-softcams-oscam version-11868-emu
 
@@ -24,11 +24,11 @@ Source: https://i.tv-lounge.eu
 Maintainer: OSCam-Installer <oscam-installer@proton.me>
 Depends:
 Filename: ./enigma2-plugin-extensions-oscam-installer-oscam-neon-emu.deb
-Size: 3871780
-MD5sum: 5197b315036e3576693a03bd5ac3c78e
-SHA1: fb38ce56907e6fd7ed524feade3a916067efef42
-SHA256: 870629625df64a463d52431e97b10fcd74a552072116628da198f314bf286fda
-SHA512: d627f015b226ec7c860326c537dc7e11d0f175f7f727cc115d2414358542b9a3374c0095990f80960e77fc686ff3c57e8e73b9c064a88225e0d717c0a0ed1530
+Size: 3871672
+MD5sum: 9b99f06dd223173e6e18804b95ab86e9
+SHA1: ebd401723430c286f5dcb4b84175c76fe6f5b692
+SHA256: d26f0c439d6ceeab9f41ea1947c8e12b38b970e86eaaddf60bd138883006a304
+SHA512: 18b8b5bab9de1052fe95efef7ea74aebe917d3bcb33f5593934d25ef16b7bc16766ed5c4e0099b9ad4d0b6bb8bc3077a4fea13af17513dafe36a7fdde1f96c87
 Homepage: https://i.tv-lounge.eu
 Description: enigma2-plugin-softcams-oscam version-11868-neon-emu
 
@@ -41,11 +41,11 @@ Source: https://i.tv-lounge.eu
 Maintainer: OSCam-Installer <oscam-installer@proton.me>
 Depends:
 Filename: ./enigma2-plugin-extensions-oscam-installer-oscam-neon.deb
-Size: 3733316
-MD5sum: c87ac5ffde3a858bea168f45a33f437a
-SHA1: ebe8f49953d401997a36a34d09d90d4ecb0b3fe7
-SHA256: 67ad74a8155d8fe3dded60d0a613e4687a6a10602d58af3b2acf554ab14174db
-SHA512: 7b4eae89ba3f6ffab68d80464be9e5e5bf6efc5124dd8525ec0be7eb1a34b1cf39584b9113fa74da2a137e888660096f67658fa7b0d8181a3c3ba2780cd505e5
+Size: 3733288
+MD5sum: 9384db63a897c8c2b0f54d7d6b85ce50
+SHA1: 7332915a49e6394251881ba4b4184b563367d1f9
+SHA256: 1637817b75cb5e3c1d5db162806bfb4022df54575b0642b8c98b771755ac9363
+SHA512: 51a2f7f1a15a0bdf8c919cec7aa3851d324450bcf1371de2cfa0c082cfd7362a7c66ff7cff313749aa570d8258c82296fae7022146bd13c5c6f100a00817aea0
 Homepage: https://i.tv-lounge.eu
 Description: enigma2-plugin-softcams-oscam version-11868-neon
 
@@ -58,11 +58,11 @@ Source: https://i.tv-lounge.eu
 Maintainer: OSCam-Installer <oscam-installer@proton.me>
 Depends:
 Filename: ./enigma2-plugin-extensions-oscam-installer-oscam.deb
-Size: 3733552
-MD5sum: 84ec0ff491e246e590627cd079bb26ab
-SHA1: 56c8571b5378a2bed61aa25452c885294e7715b8
-SHA256: 8be3a4d37593aaa15eb252dd67831723ae0fd9e4e3a7b3d4c8b31e0f636c5e09
-SHA512: f498a4ee9e435e2a6cd11e750027459c4f73018565c0e96f10dad024eb6927447e36ce93f2c3c84ec4de769d9bf9c2c3ca8fe10cd5e92020d41f944684108db3
+Size: 3733388
+MD5sum: 6f7d637e26b352973cfcebab6c79d360
+SHA1: 64536b62786cf8678e496914a897ae7bb15dd0e8
+SHA256: 6442b7290820028a51e8ed87378e2a0f07a7c254739517ce171b09417b8408b4
+SHA512: 94aff9015a6a4ca20077e228877e9a70b70b09e76c605daaa2f9ee4d3e3c57994a1e8355670abb6edc7fc514129026e8e46268b44a41e1d9ff3989f1efbe54bc
 Homepage: https://i.tv-lounge.eu
 Description: enigma2-plugin-softcams-oscam version-11868
 

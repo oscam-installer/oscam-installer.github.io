@@ -7,11 +7,11 @@ Source: https://i.tv-lounge.eu
 Maintainer: OSCam-Installer <oscam-installer@proton.me>
 Depends:
 Filename: ./enigma2-plugin-extensions-oscam-installer-picons-icam.deb
-Size: 597856
-MD5sum: 6c6c5b9ea247b7af17dafbf6515ac36a
-SHA1: 295dfc1bd0edc5314f0f72047cf35bc40d2b1cbf
-SHA256: 954e316ac39e46a919006e308663edc063c007d39b16f1a74400c8dce4b56266
-SHA512: 14a56afe0e44d647073191f36c81e487a9398906fe45e9d1e67d3fd36ad578736cb783b5cfb4cca4b3bc153c9326ca549054f1760935afe70868797499192484
+Size: 597828
+MD5sum: 49d1265c9e21d5e19ead04c73e875488
+SHA1: 4a009a9bc4237999774e5e5de5daf51232726de0
+SHA256: 89052d7f89a99cd1448b2925a2fa2e4b71f6b177d8bdff3ac1e01abb288f21f3
+SHA512: 1e04cb8dc402fa55683c8e16aa887c3fa2627e599317b892e5a9a256e34e2a4fa9afd62a4c6256bc224b127741ce61954532001d3007ad644fc843e3c222bc18
 Homepage: https://i.tv-lounge.eu
 Description: picons-icam version-20250207
 
@@ -24,11 +24,11 @@ Source: https://i.tv-lounge.eu
 Maintainer: OSCam-Installer <oscam-installer@proton.me>
 Depends:
 Filename: ./enigma2-plugin-extensions-oscam-installer-settings-icam-astra-multi.deb
-Size: 2828
-MD5sum: 0d6330fe4e115efc257b7e9f6fec176b
-SHA1: 79a8da17ec669ed7f399f16889ae6779eb905789
-SHA256: b78fbc95a3d16d795d802772faa925a1ed498d89ca30c9d4aa1e1031c0062ba9
-SHA512: 33499539f02b04595e47ad38d604bf7c8b03812a4b62d969eba344483758f01d6eec0eab2dfda26fb3effb630fbadc00423886129efb30d9ee868e25f8f8aff6
+Size: 2808
+MD5sum: 27403b1a065420ad314169777b122ced
+SHA1: 020fc397a49c6af5c4c8bea71380e1a5370ef2d6
+SHA256: 6f7f6dc047e50075cd103fd5c345150e685af1278ed174883cfe6f98a75985b2
+SHA512: bb3a557ddb01d13a8e56a37ef81bfebbb0e430dd332f5a23a1b29ccb9bc37d4d63cee377176080a87f521f0a6e703f4e4ee0794b30ccb693f3b3f6509b12cc89
 Homepage: https://i.tv-lounge.eu
 Description: settings icam astra multi
 
@@ -41,11 +41,11 @@ Source: https://i.tv-lounge.eu
 Maintainer: OSCam-Installer <oscam-installer@proton.me>
 Depends:
 Filename: ./enigma2-plugin-extensions-oscam-installer-settings-icam-astra-single.deb
-Size: 2476
-MD5sum: 770be062c9fc52b37856f2f157dbe302
-SHA1: 387f12490f5d2d7d33508387f0fe1bac9d7766ea
-SHA256: 5e7e3dd5a74a24a0764083604d4ce6bc2b8c932e07ae4395560075f81210c5a4
-SHA512: c9051f207696258ad9f7655d4f5ee071d6965e3d5757abba2b6e71ceab4c71477a0c05a19f6bc9b3c9a4117c94f66625c6df319d283cf25523f296ef972bbf2c
+Size: 2452
+MD5sum: cf7e26023a022ca669030a282b339448
+SHA1: 3ca2ac2ec5708a03f418831272ad31fee1aff1c5
+SHA256: 77dfc27dbd611bbff7fc35363880f34e0bccfd7b556cec699c813f9dc5daeaab
+SHA512: 3b5c556a37a6345e38a847f8e59c2b3bb4c62a0e91283534d0543c085c5d8c672e9cffcbdd0baf11d9ce0bccc4ecdd82c64e809643a9089eeb2e158ff79dc65e
 Homepage: https://i.tv-lounge.eu
 Description: settings icam astra single
 
