@@ -1,21 +1,4 @@
 Package: enigma2-plugin-extensions-oscam-installer-picons-icam-picons
-Architecture: all
-Version: 20250207
-Priority: optional
-Section: base
-Source: https://i.tv-lounge.eu
-Maintainer: OSCam-Installer <oscam-installer@proton.me>
-Depends:
-Filename: ./enigma2-plugin-extensions-oscam-installer-picons-icam-astra.deb
-Size: 992
-MD5sum: f485c7d30ac2f05a27d77305ad67f2a4
-SHA1: caf983f15b3bdf4c7d9083e42ae6d5d63cb82eb3
-SHA256: 4d84c6d8ba19036c48de184aa191c87abc167707e96d43d4519306115bd860d5
-SHA512: 0b1427a76eed15800eb5e559ade2393eeca2e7482909544bdc6408180b18d214f9538852a14fc1725139dd06b5f90ecbd700852ce6301567b2cb33b65945c277
-Homepage: https://i.tv-lounge.eu
-Description: picons-icam version-20250207
-
-Package: enigma2-plugin-extensions-oscam-installer-picons-icam-picons
 Architecture: arm64
 Version: 20250207
 Priority: optional
