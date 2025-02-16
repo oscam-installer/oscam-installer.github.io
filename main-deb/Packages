@@ -7,11 +7,11 @@ Source: https://i.tv-lounge.eu
 Maintainer: OSCam-Installer <oscam-installer@proton.me>
 Depends:
 Filename: ./enigma2-plugin-extensions-oscam-installer-picons-icam.deb
-Size: 964
-MD5sum: 01a5ee460b0964fbe69731561ba5649e
-SHA1: 13d56d901ba128ec441d0f830d86474c2f1c130e
-SHA256: 45cde51e2470b0bab8d73a831398ed58c40313e2a85208f62b570f0f64e7f87f
-SHA512: d8aa765e18f51933fd3c21b38055d499995db2d9cc83a52647e18105fc0007f41acb41c3820a5991cd64f17ef9310fd318e6fc855a31eb3a83f9b3b7c80d38d3
+Size: 597856
+MD5sum: 6c6c5b9ea247b7af17dafbf6515ac36a
+SHA1: 295dfc1bd0edc5314f0f72047cf35bc40d2b1cbf
+SHA256: 954e316ac39e46a919006e308663edc063c007d39b16f1a74400c8dce4b56266
+SHA512: 14a56afe0e44d647073191f36c81e487a9398906fe45e9d1e67d3fd36ad578736cb783b5cfb4cca4b3bc153c9326ca549054f1760935afe70868797499192484
 Homepage: https://i.tv-lounge.eu
 Description: picons-icam version-20250207
 
