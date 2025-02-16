@@ -13,7 +13,8 @@ elif [ -n "$(uname -m | grep aarch64)" ]; then
     echo $feed1 | tee -a /etc/apt/sources.list.d/oscam-installer.list > /dev/null
 	echo '{ "entrys": [ {"name":"Oscam-Installer Packages", "hide":0, "sort":1, "desc":"Oscam-Installer Packages", "filter":"enigma2-plugin-extensions-oscam-installer"},
 	{"name":"Oscam-Installer Packages", "hide":0, "sort":1, "desc":"Oscam-Installer Packages", "filter":"enigma2-plugin-systemplugins-oscam-installer"},
-	{"name":"Oscam-Installer Packages", "hide":0, "sort":1, "desc":"Oscam-Installer Packages", "filter":"enigma2-plugin-oscam-installer"}] }' | tee /etc/enigma2/AddonFilterlist_oscam-installer.json > /dev/null
+	{"name":"Oscam-Installer Packages", "hide":0, "sort":1, "desc":"Oscam-Installer Packages", "filter":"enigma2-plugin-oscam-installer"}
+	{"name":"Oscam-Installer Packages", "hide":0, "sort":1, "desc":"Oscam-Installer Packages", "filter":"oscam-installer"}] }' | tee /etc/enigma2/AddonFilterlist_oscam-installer.json > /dev/null
 	apt install -y coreutils > /dev/null
 	apt-key adv --keyserver keyserver.ubuntu.com --recv-keys AEEC34D2E6D9BF07 >/dev/null 2>&1
 elif [ -n "$(uname -m | grep mips)" ]; then
