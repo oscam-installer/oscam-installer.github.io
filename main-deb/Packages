@@ -1,3 +1,22 @@
+Package: enigma2-plugin-extensions-oscam-installer-ncam
+Architecture: all
+Version: 0~git0d50412
+Priority: optional
+Section: base
+Source: https://i.tv-lounge.eu
+Maintainer: OSCam-Installer <oscam-installer@proton.me>
+Provides: oscam-installer-ncam
+Depends: libusb-1.0-0 (>= 1.0.0)
+Replaces: oscam-installer-ncam
+Filename: ./enigma2-plugin-extensions-oscam-installer-ncam.deb
+Size: 2689756
+MD5sum: 365f20850f3dcc6d4161ad0fd56a4536
+SHA1: 6cd6c2b87e66258fcac59a51cc1faa8e392020a9
+SHA256: 789d5a4650ea9a7dbf235854609ad7163488356d92ae697985e5329870d50ba8
+SHA512: 0499365679c1048880613b4efa3202bc9c1a23c1dade658d8c3b15ab4571c72b49b154be6a5b899c09b75898ac0a1eff2ace12cc384f4c1e863fe76357510b83
+Homepage: https://i.tv-lounge.eu
+Description: enigma2-plugin-softcams-oscam version-git0d50412
+
 Package: enigma2-plugin-extensions-oscam-installer-picons-icam-picons
 Architecture: arm64
 Version: 20250207
