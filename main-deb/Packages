@@ -9,11 +9,11 @@ Provides: oscam-installer-ncam
 Depends: libusb-1.0-0 (>= 1.0.0)
 Replaces: oscam-installer-ncam
 Filename: ./enigma2-plugin-extensions-oscam-installer-ncam.deb
-Size: 2692128
-MD5sum: 678fdcd40588e929725d62f8be7b7451
-SHA1: 24fc2b38be9a81c7b9d31e33aefff3aed648d4a0
-SHA256: 1cdbecafb29b9c7515f84e7ae7a4579d743da388502550ea1fda06156bf63130
-SHA512: 37d27759bf3a6c52dc78e9c6625b69d46ecb510287270338f37e6ea853bff4528659b781bb04f4fde674571d99760e4d13c9cbfbd839a86e48de68a0fbe67ec0
+Size: 2623176
+MD5sum: d8ed908f67c977fd56230f4efefc68c7
+SHA1: 1cd4769987853e6f7b70867dd87bd40f4c6008e1
+SHA256: eae3a41691d5af72e08ac3cfab575ebb001766a4a88595745914f95e9fa5afc1
+SHA512: fe80673df07ccaba16e1752c592e1d05ec9827ccd1f830a83429afbd135393a7731fb2fb6da8c6f50be578b3b97bec57128e3089403b1648aef78b0c21b27f84
 Homepage: https://i.tv-lounge.eu
 Description: enigma2-plugin-softcams-oscam version-git0d50412
 
