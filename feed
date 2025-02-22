@@ -42,4 +42,4 @@ else
     exit 1
 fi
 
-echo "OSCam-Installer Feed for arch $_arch installed."
+echo "OSCam-Installer Feed for $_arch installed."
