@@ -7,11 +7,11 @@ Source: https://i.tv-lounge.eu
 Maintainer: OSCam-Installer <oscam-installer@proton.me>
 Depends:
 Filename: ./enigma2-extensions-oscam-installer-settings--icam-astra-multi.deb
-Size: 2788
-MD5sum: 99f4ab874356d2ac4bcf1a2c1baf932e
-SHA1: 324dc23d0bed5eac0d4b55323827d90ffd6d8d45
-SHA256: e64270ff645cccfef86fdc63dc9aab4dd59c6bce52d41cb3765d1f0b22c6ee50
-SHA512: 9b4a4de525b7bb60c62d8aa4d10443b9faaf5eb4a5c8c341d10d73c139cc7d82dfb2520f4ffca95cea9daaf8c103f044c857de84b0401d6ab9bd451de1ffc387
+Size: 2804
+MD5sum: d7f0b0300af54fac776661bb90149620
+SHA1: fc918eab7c3e0d63cff49506f12ef370432a30b7
+SHA256: ab0ff5ba59ab2d0a85c5ba0de52d8b124c991f51ea1cab787b00f95bf41a3759
+SHA512: 56c4f9087abead39423ab5bcb0fb37fb8befabc7d66df3f1493eccfaa7ff440a560487aeea7c231d788648586963671ebaa56ee4c76c736dfdfec0f65b67f875
 Homepage: https://i.tv-lounge.eu
 Description: settings icam astra multi
 
@@ -24,11 +24,11 @@ Source: https://i.tv-lounge.eu
 Maintainer: OSCam-Installer <oscam-installer@proton.me>
 Depends:
 Filename: ./enigma2-extensions-oscam-installer-settings--icam-astra-single.deb
-Size: 2420
-MD5sum: 4d773effb421e14a331f69a2934c3e27
-SHA1: 2c1fba069708e08e2c15d97b3b36f41edb6f7e15
-SHA256: 72f516b8ad273f8007e8ccffc56ef2228731e9b2876120c504c7418aa6c3448a
-SHA512: 03f1a2b273d70bff49b66148af061ab350152c93b303578ce92223a2ba90707fe46c0efb4681a86ed2195c08351913eb6b094ad97710aaf5141c0c2f843bdece
+Size: 2448
+MD5sum: 862d9278d0bec34bc6cd39db726468a2
+SHA1: 4c04c4c24615bea3ad2c59391ef12cb5d608f9d4
+SHA256: a5ecf63fcb605540cb6fdec9854d029e2511cf9254aaeebc2da438214590f1db
+SHA512: 89204bdb944ca38dafee527fff0a16f1ef65415d9797db7eea7b666c54ce54d487f89dd608cdf8150e7d7b44eb722679c17e79821d0fb2d311ca2e9e6cfb7c6f
 Homepage: https://i.tv-lounge.eu
 Description: settings icam astra single
 
