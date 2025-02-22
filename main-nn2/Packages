@@ -1,3 +1,54 @@
+Package: enigma2-plugin-extensions-oscam-installer-settings-icam-astra-multi
+Architecture: all
+Version: 20250207
+Priority: optional
+Section: base
+Source: https://i.tv-lounge.eu
+Maintainer: OSCam-Installer <oscam-installer@proton.me>
+Depends:
+Filename: ./enigma2-extensions-oscam-installer-settings--icam-astra-multi.deb
+Size: 2780
+MD5sum: 74eab12c2c4370208df39201e266073f
+SHA1: 7858e57235e42f4d9102aa881ac744635b5c96fd
+SHA256: 5458698ec1cb23588981df02dee953904aab7f112d188ad626481099303de18f
+SHA512: 5e767791d8bf54268aab6b91af90d8e9e59b5df12fdb3a314e3f887393ac9b97db151c7553146d445db8d7ec1deef5d6176ceacbc183a8be82fc2320d2e8de27
+Homepage: https://i.tv-lounge.eu
+Description: settings icam astra multi
+
+Package: enigma2-plugin-extensions-oscam-installer-settings-icam-astra-single
+Architecture: all
+Version: 20250207
+Priority: optional
+Section: base
+Source: https://i.tv-lounge.eu
+Maintainer: OSCam-Installer <oscam-installer@proton.me>
+Depends:
+Filename: ./enigma2-extensions-oscam-installer-settings--icam-astra-single.deb
+Size: 2428
+MD5sum: 99aab084e95ad3350fd3f898cb7966f9
+SHA1: b4836ab64908737d68ec51b9b720b2104a1f6cf0
+SHA256: 47398d26c1e8626c80f982d28990f6cc090e5ae808a570c3f2fa45e26a8978ca
+SHA512: 66034261280f0d6689b56f8b0207690da4f1cd6deccfe671e08d3ca068d1319afd47db850a8db1946e20522f8d91a030417a5227d0b05fb900ef2758c766321f
+Homepage: https://i.tv-lounge.eu
+Description: settings icam astra single
+
+Package: enigma2-plugin-extensions-oscam-installer-picons-icam-picons
+Architecture: all
+Version: 20250207
+Priority: optional
+Section: base
+Source: https://i.tv-lounge.eu
+Maintainer: OSCam-Installer <oscam-installer@proton.me>
+Depends:
+Filename: ./enigma2-extensions-oscam-installer-settings--picons-icam.deb
+Size: 597660
+MD5sum: 0210a8263f7e685cdd4756ccb51d27db
+SHA1: 0d96c296451c2a90043a290e432408abfab82041
+SHA256: 8adce8ea19d98273a46ff77403c453c0c63bb1447fc7a518aee22439058f8edf
+SHA512: b76393803e66e3e6fc8a0cf62a222b4bb682ea08b866d85ce145f3d7e290f19f9638fec5624632a1fd77f78d26ebd51cb8279194f326dce0266d4c20d897bb7a
+Homepage: https://i.tv-lounge.eu
+Description: picons-icam version-20250207
+
 Package: newnigma2-camd-oscam-installer-ncam
 Architecture: all
 Version: 0~git0d50412
