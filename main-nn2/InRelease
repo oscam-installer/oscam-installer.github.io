@@ -1,0 +1,34 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Date: Sat, 22 Feb 2025 23:19:35 +0000
+MD5Sum:
+ 3cd95e90361c49067bd001c45ee3cc0a             3830 Packages
+ 52b652bb331625cfef38df2fa0f3c7ec             1304 Packages.gz
+ 7924feae2da87616487f75a878ea6c6d               38 Release
+SHA1:
+ a7130ac9ceb248ff81f21a3035b5171a2b0123d5             3830 Packages
+ 21240c93a78f512caa3a65d1cc9530da44def090             1304 Packages.gz
+ ca3eb4ce5ac4c6c550ec8153fc06631bbb8138dc               38 Release
+SHA256:
+ 3af782c7d72051d931f34fc87f91cf38f14bb92c9baa90a3d5236f56fff6c8b7             3830 Packages
+ 0581c07423417325dc9d439c2d3d10ccbd440dbb6722b54360323439d942a623             1304 Packages.gz
+ 6d0b68389ad3c29861f14b29139997637bae9bfc939cb41ebe77739d626b24bf               38 Release
+SHA512:
+ b659d82b7687a3dc4b36610fa9b42d633c083429bd6d1b5e7850ae5194a70ddd838571d693a7cd6c247b1c2867dc3b58decf05e8ec67a1e0618bcc28a66dda19             3830 Packages
+ eb3be8325411cd8989b91c6b4df13cdb0ce7e611c6ff885f0b604553fd02fcb2da091dea23ac5134e007a58d25b7ed468d5209e00b9c5fd36ca32511118659e4             1304 Packages.gz
+ 87be785496dc4f8a49fadb8e979424f46674484823cec75d2fdd70fcad5669aa9f5c2b557a66173c72b1523e8f0c33910d4491bd742f8d31d658a2524649b744               38 Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEE4beBZ+0FctuKgcT5ruw00ubZvwcFAme6W4cACgkQruw00ubZ
+vwckWgv9E47ln1kTQrfygcWvZhfb2HGgEoLcn/J4Cattd4/cpOiUEzPOwWDye9jd
+ucux2Kw8N4MVLtJU7l3mrXn6HkVOVKcrQ9uisoe5gnrtlSsL6JKQnygCg5DPYj/b
+AdurzD7zQy77flTis4cAkvIjBxbjx+O2aCa7Sk9EsjLePe9X/dcm6bb6XMsgLa1b
+v0Q6uPsYqwhgbFUAdjCmZNcw/BR8V+uz4+QZ1N9S7V++78fLOOHivWbggKATi6Yi
+NfHLtxY5EWt0s/ETmmqUtu2/sLS0ULOFzsm1rHuK8uCfUpdcox+F/xzz0UGfn/PW
+GzlisVwqw/DLNzdtQ0DZk/GMlxYLtKCEZ/RCL7r3/izbt/atgYNnd6EE8h6hl1kS
+t7gUA9+S8Bud/2BPh68dZt3JEql8M0q6uAyobAMUNXRtku7L2G3HVqVLNGfgWbuQ
+DzFd2ZrPxIfAsJA1aSt6FdJvpINkndbwGLEQMUP5j/o5ijNssvbsZ1GlRlVpsivP
+Ru6yLv1I
+=od33
+-----END PGP SIGNATURE-----
