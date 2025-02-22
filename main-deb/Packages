@@ -79,11 +79,11 @@ Provides: oscam-installer-oscam-emu
 Depends: libusb-1.0-0 (>= 1.0.0)
 Replaces: oscam-installer-oscam-emu
 Filename: ./enigma2-plugin-extensions-oscam-installer-oscam-emu.deb
-Size: 3849328
-MD5sum: 88dad896e9a806814945551e79599e52
-SHA1: 1dc1fc541156620caab5dcb5a3b6762aea8e30bd
-SHA256: 366e01b9899bbd3f72296da3e1cc237fd586d0287ef0cbc2a43e9dd149067e3a
-SHA512: cb356ad61ce018c57edb72c4dbabb44a9fd5648ccfac1cfa5c2a4f728e130093a5031a120ccfb9d4b9cb2c72c26d09193f3417e51898ff782321a27e7b659ee3
+Size: 3849016
+MD5sum: 49ce8bf82d064ee5b22172a8d2b396d6
+SHA1: 517d926387ecd3c91fb7e37e9e378f925b4554b3
+SHA256: cafd05bb60ea28c6903f0a016b54013a02db77c2bb5a8a15af558e8e49dbc2a6
+SHA512: 88f1243ddf5c3efd79c00e5ce991695d4d5714a9e19a7cd1ad5ae1759611e23298e0a4449c5ef77eb00186e2adb27c9096dbc28b07d621273963bfe2289d1da6
 Homepage: https://i.tv-lounge.eu
 Description: enigma2-plugin-softcams-oscam version-11869-emu
 
