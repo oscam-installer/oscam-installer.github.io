@@ -30,8 +30,13 @@ else
 fi
 
 if [ -e /etc/opkg ]; then
-    feed2="src/gz oscam-installer-main http://feed.tv-lounge.eu/main-ipk"
+    if [ -r /usr/lib/enigma2/python/Plugins/SystemPlugins/VTIPanel ]; then
+	  feed2="src/gz oscam-installer-main http://feed.tv-lounge.eu/main-vti"
+	else
+	  feed2="src/gz oscam-installer-main http://feed.tv-lounge.eu/main-ipk"
+	fi
 	echo $feed2 | tee -a /etc/opkg/3rd-party-feed.conf > /dev/null
+	
 elif [ -e /etc/apt/sources.list.d ]; then
     feed2="deb [trusted=yes] http://feed.tv-lounge.eu/main-deb ./"
 	echo $feed2 | tee -a /etc/apt/sources.list.d/oscam-installer.list > /dev/null
