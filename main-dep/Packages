@@ -17,3 +17,79 @@ SHA512: a51e998f4a0e3f9038461dc086f179e5a53aaffb4c9096431172bc675957bd936427ad93
 Homepage: https://i.tv-lounge.eu
 Description: dep-ncam version-git0d50412
 
+Package: dep-oscam-installer-oscam-emu
+Architecture: all
+Version: 11869-emu
+Priority: optional
+Section: softcams
+Source: https://i.tv-lounge.eu
+Maintainer: OSCam-Installer <oscam-installer@proton.me>
+Provides: oscam-installer-oscam-emu
+Depends: libusb-1.0-0 (>= 1.0.0)
+Replaces: oscam-installer-oscam-emu
+Filename: ./dep-oscam-installer-oscam-emu.deb
+Size: 3849008
+MD5sum: 92c3e155efa1e7f4d43cdb840378b20c
+SHA1: 43920ec7bcad86537e243b3ed06afb6be339516d
+SHA256: b3dc550b89266bab06ff3a9cecd46469a73895be0d8a2d4d33f65fe346aa79d6
+SHA512: b5ebde9f22beabd68ea36c29e9c1647c889bec3aef7fc45c4013c0fe0e283cf47d163ff624d7010cc8831b9dd6018deefd2bfce3cb11a3912722b0a1c689cf0f
+Homepage: https://i.tv-lounge.eu
+Description: dep-oscam version-11869-emu
+
+Package: dep-oscam-installer-oscam-neon-emu
+Architecture: all
+Version: 11869-neon-emu
+Priority: optional
+Section: softcams
+Source: https://i.tv-lounge.eu
+Maintainer: OSCam-Installer <oscam-installer@proton.me>
+Provides: oscam-installer-oscam-neon-emu
+Depends: libusb-1.0-0 (>= 1.0.0)
+Replaces: oscam-installer-oscam-neon-emu
+Filename: ./dep-oscam-installer-oscam-neon-emu.deb
+Size: 3888672
+MD5sum: cf9f79cc35b421aaea563e12bacda5b2
+SHA1: 8a417af3681170c1b82e8aefcd038ff0f40246e5
+SHA256: ec25291a0d69ddd62d005dc3b546a336765e831e4dde7440e7f16270f9d84285
+SHA512: a10627b7302af7f5788bce4029d6f4f9e3dad0bff06dd34988d2bd12ef1ba7ad9eece17f708dd6db05538895806b0db8da06a1a14cbc8a38a00f8ab34db8d5c5
+Homepage: https://i.tv-lounge.eu
+Description: dep-oscam version-11869-neon-emu
+
+Package: dep-oscam-installer-oscam-neon
+Architecture: all
+Version: 11869-neon
+Priority: optional
+Section: softcams
+Source: https://i.tv-lounge.eu
+Maintainer: OSCam-Installer <oscam-installer@proton.me>
+Provides: oscam-installer-oscam-neon
+Depends: libusb-1.0-0 (>= 1.0.0)
+Replaces: oscam-installer-oscam-neon
+Filename: ./dep-oscam-installer-oscam-neon.deb
+Size: 3749868
+MD5sum: 0f77ffd87d247695bab26563212362be
+SHA1: d6be343be0d81e4233aad979f44de7c59303a77b
+SHA256: d51ea1ae9e9307c1b6d147c738be370ef470afcc392d661ebd2ac1769e1e7bc3
+SHA512: 2feff0edc2c2fb9714d2057195a43ca4265c582de2f90dd814265febae779b7e531340ba4acb1a6475c4f92396355d77b99782dbfe3563c6e0a759f8591a6ee7
+Homepage: https://i.tv-lounge.eu
+Description: dep-oscam version-11869-neon
+
+Package: dep-oscam-installer-oscam
+Architecture: all
+Version: 11869
+Priority: optional
+Section: softcams
+Source: https://i.tv-lounge.eu
+Maintainer: OSCam-Installer <oscam-installer@proton.me>
+Provides: oscam-installer-oscam
+Depends: libusb-1.0-0 (>= 1.0.0)
+Replaces: oscam-installer-oscam
+Filename: ./dep-oscam-installer-oscam.deb
+Size: 3749924
+MD5sum: 2e415d8e6f687ae3820ed07afc1e18a1
+SHA1: 3f24a0af1f940e957b62f5b5b292a3eac53d0288
+SHA256: 316c0421c42299c440dbd785415cb6a95b9b7d0eaa02b4b07d86fc54df076075
+SHA512: ed74698acb7aeea6e7c9288245ff1acd7e82a0b4e8a3acd6cd96597d755bed34d6b9eff99c3113cb78b682d9645313c0a4ea9176f6968eaacb76e91cc5d5b946
+Homepage: https://i.tv-lounge.eu
+Description: dep-oscam version-11869
+
