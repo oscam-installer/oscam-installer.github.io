@@ -7,11 +7,11 @@ Source: https://i.tv-lounge.eu
 Maintainer: OSCam-Installer <oscam-installer@proton.me>
 Depends:
 Filename: ./enigma2-extensions-oscam-installer-settings--icam-astra-multi.deb
-Size: 2780
-MD5sum: 74eab12c2c4370208df39201e266073f
-SHA1: 7858e57235e42f4d9102aa881ac744635b5c96fd
-SHA256: 5458698ec1cb23588981df02dee953904aab7f112d188ad626481099303de18f
-SHA512: 5e767791d8bf54268aab6b91af90d8e9e59b5df12fdb3a314e3f887393ac9b97db151c7553146d445db8d7ec1deef5d6176ceacbc183a8be82fc2320d2e8de27
+Size: 2784
+MD5sum: cb42d02f470c5804d5dcf9d1427b0757
+SHA1: 62890be4f3eba2033f9cef72104480b573270684
+SHA256: 4c7cb05407aca841f50bf29e7ff5e52bf3bb87ca4940e86c53b45e06e11d5bed
+SHA512: 574156e449f54369ef7b55d4c7d90c346431858f463a0fcfba9860c253479162601d4d37c8d4ec788439f9051daa8ff342edaed2160eb38a43b2c2a5ae649fcb
 Homepage: https://i.tv-lounge.eu
 Description: settings icam astra multi
 
@@ -24,11 +24,11 @@ Source: https://i.tv-lounge.eu
 Maintainer: OSCam-Installer <oscam-installer@proton.me>
 Depends:
 Filename: ./enigma2-extensions-oscam-installer-settings--icam-astra-single.deb
-Size: 2428
-MD5sum: 99aab084e95ad3350fd3f898cb7966f9
-SHA1: b4836ab64908737d68ec51b9b720b2104a1f6cf0
-SHA256: 47398d26c1e8626c80f982d28990f6cc090e5ae808a570c3f2fa45e26a8978ca
-SHA512: 66034261280f0d6689b56f8b0207690da4f1cd6deccfe671e08d3ca068d1319afd47db850a8db1946e20522f8d91a030417a5227d0b05fb900ef2758c766321f
+Size: 2436
+MD5sum: a3b20ac7e8f62588ebe1f4b4015eb2c7
+SHA1: 31fc514de4b5770ad3041bee075cbefe70e740ee
+SHA256: a480b9a797c93feed845fd19b6d709843c778d9696ebaf53f10c92d77b264ea1
+SHA512: 8c021e82340dedac28a4adc5d9fc41e24528210d6a6de1321a0eb61b974068e04cf4df6138304bd02108358e1c79fa51a3073acf4e56fad7b353b98c3dab61ca
 Homepage: https://i.tv-lounge.eu
 Description: settings icam astra single
 
@@ -41,11 +41,11 @@ Source: https://i.tv-lounge.eu
 Maintainer: OSCam-Installer <oscam-installer@proton.me>
 Depends:
 Filename: ./enigma2-extensions-oscam-installer-settings--picons-icam.deb
-Size: 597660
-MD5sum: 0210a8263f7e685cdd4756ccb51d27db
-SHA1: 0d96c296451c2a90043a290e432408abfab82041
-SHA256: 8adce8ea19d98273a46ff77403c453c0c63bb1447fc7a518aee22439058f8edf
-SHA512: b76393803e66e3e6fc8a0cf62a222b4bb682ea08b866d85ce145f3d7e290f19f9638fec5624632a1fd77f78d26ebd51cb8279194f326dce0266d4c20d897bb7a
+Size: 597672
+MD5sum: 532e4a2ff143a3f81340c9e50cb72c8c
+SHA1: 7969cd49bede29be96ceb41eab59e0d3eaca4b09
+SHA256: f724cc2abd2abb0b735e29e0198fd723805b73fc6928de691dad3edee467ad2c
+SHA512: 318d23e68f849b9ed10fb46f94d78cb837acb782c9ffa23c3e8b4dbef7c8030ab31490776c39df7aed1b601eefc205dc1ae9e9aef43dceb2c35bd3503c885e50
 Homepage: https://i.tv-lounge.eu
 Description: picons-icam version-20250207
 
