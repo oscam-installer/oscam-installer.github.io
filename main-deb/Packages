@@ -80,13 +80,14 @@ Provides: oscam-installer-oscam-emu
 Depends: libusb-1.0-0 (>= 1.0.0)
 Replaces: oscam-installer-oscam-emu
 Filename: ./enigma2-plugin-extensions-oscam-installer-oscam-emu.deb
-Size: 3849236
-MD5sum: ad316d926bb0f77d481f54427dddd79e
-SHA1: ca40780bd3c255a569f6714c1478324d86a662c6
-SHA256: afe38520b2ed3fd6192aea301c6b59407c1291d6c32422d188bb3388d1891097
-SHA512: 41fc3e98274f1bb81626a987d6f33216770d9a4b0c5b42f4ef72360e8ba9641aee84f3c086d6a4913d8a39ca79f9e97713b2865222849793bf87284d20eed6c8
+Size: 3849248
+MD5sum: 1f0734922543ea84a79382b9f6af8ac9
+SHA1: 1bf7d3bef66a8a41b54f8415480be63a988abcfb
+SHA256: fc39da5f10d7c74956e08568be88e7964eb934d0f204aab0483de99118928466
+SHA512: 6f9049216712b6a004e7bc0f32de5c65769c64a65f7253830157298ab037af5326ae91262e227858e723be71f47a79cf8b0b7c660b4b7a8f6d960bbc877ee177
 Homepage: https://i.tv-lounge.eu
 Description: enigma2-plugin-softcams-oscam version-11869-emu
+Tags: System
 
 Package: enigma2-plugin-extensions-oscam-installer-oscam-neon-emu
 Architecture: all
@@ -99,13 +100,14 @@ Provides: oscam-installer-oscam-neon-emu
 Depends: libusb-1.0-0 (>= 1.0.0)
 Replaces: oscam-installer-oscam-neon-emu
 Filename: ./enigma2-plugin-extensions-oscam-installer-oscam-neon-emu.deb
-Size: 3888756
-MD5sum: cccc7eff06d4011e373ff1cbee4e7ec0
-SHA1: 4e016d00887f4dacc56947a8b5c14c229f437f11
-SHA256: 7d4803dda3287825f46d7e87ed38992ce666dbf673c5f726136335e4013201f1
-SHA512: 569b04c53d8ea0d81673cd462e13f4bc3f5f1f390c93cf00f31e498cf947b99735aa5f7f14c661d10ad293b76670e844aa3ebc43c534073654dc782b54a61f91
+Size: 3888764
+MD5sum: ea66601adf3ef22332d2446e148ff13f
+SHA1: 7e396f2be1f699b8a078018f5529931e95acafae
+SHA256: cded77cbbad5bd19da50b5efd2d9e9879bb6b1f00c3d176a7e07dbc48db00c5c
+SHA512: 36d2702324db0b206d17bb8583e0d545c8e1c01eefd6d7aa3dec24834b16691014b05e6d0509a4b6dea17b428726a2b050ec4371ad49ade988562a103347affc
 Homepage: https://i.tv-lounge.eu
 Description: enigma2-plugin-softcams-oscam version-11869-neon-emu
+Tags: System
 
 Package: enigma2-plugin-extensions-oscam-installer-oscam-neon
 Architecture: all
@@ -118,13 +120,14 @@ Provides: oscam-installer-oscam-neon
 Depends: libusb-1.0-0 (>= 1.0.0)
 Replaces: oscam-installer-oscam-neon
 Filename: ./enigma2-plugin-extensions-oscam-installer-oscam-neon.deb
-Size: 3750020
-MD5sum: 0076c72741553f19a23324d7adc4947d
-SHA1: 5dc9b2ea728c7bf42abc8c8946a5c1a7ade412bf
-SHA256: 5e8dcd7fcd6c0d8b7a33bda99523c919179f05ace6d2497fd33599d981646d04
-SHA512: 1aa249aeb63d4c11e458f3c142c31141c0cb6d0849ef06142f5d68769bda42df1b9d79706f69d70a97673fcc703092900afac8d660825786e501be470ed40394
+Size: 3750032
+MD5sum: 2897ff82862d78f45a54fb247b8ebf5a
+SHA1: 2d54d6d08361071624bbdb2b3cc6c4d0428376bc
+SHA256: 1ec7dd9ffabceafe0c57e6cef92d275efdf8d7aed1dc92eeb5220b8362763072
+SHA512: 67672f64315281fc83d293c91e9952821b94c8c21476d4034c1d3dfa493ae775a2fd61b6913d64141975610c5cdf22955cf5d45bd65672a004ca0fb4f0adf99f
 Homepage: https://i.tv-lounge.eu
 Description: enigma2-plugin-softcams-oscam version-11869-neon
+Tags: System
 
 Package: enigma2-plugin-extensions-oscam-installer-oscam
 Architecture: all
@@ -137,13 +140,14 @@ Provides: oscam-installer-oscam
 Depends: libusb-1.0-0 (>= 1.0.0)
 Replaces: oscam-installer-oscam
 Filename: ./enigma2-plugin-extensions-oscam-installer-oscam.deb
-Size: 3749964
-MD5sum: ec73049e95b9da0060d44962faa3c911
-SHA1: 9496b3cfde9d93a499633d64a40f1dd9b016d86a
-SHA256: ff62ddadfc567302d1efd96fbae2a938c1ddf9b5f589e72d588e4b08d2401008
-SHA512: d77f4f5559ae98868ed2de4154d0a2c969a5135f60e3e5f15c147d0b0d0463410676dff207862dfdfd6ec9e4fcd3daca0689d315183c6f92dda0119e84779553
+Size: 3749968
+MD5sum: d708c917a5054b534fa59ac6fa2cdc49
+SHA1: da479f67cec047ccbc81f9397a7467b3ab42bea8
+SHA256: f8c9028ab8bde28cd5f2d209850d2f03eb088205c4cf159ac97c09e7a3c388e1
+SHA512: 6d694c5483618af73db2f36ad51c282620a99c92b3c373b64909da3dafc7dd5391b7964111c88c8f5bb25a5ffb3d47727da09cc03fb301570c131271adea545f
 Homepage: https://i.tv-lounge.eu
 Description: enigma2-plugin-softcams-oscam version-11869
+Tags: System
 
 Package: enigma2-plugin-extensions-oscam-installer-picons-icam-picons
 Architecture: arm64
