@@ -11,8 +11,6 @@ elif [ -n "$(uname -m | grep aarch64)" ]; then
 	fi
     feed1="deb [trusted=yes] http://feed.tv-lounge.eu/aarch64 ./"
     echo $feed1 | tee -a /etc/apt/sources.list.d/oscam-installer.list > /dev/null
-	apt install -y coreutils > /dev/null
-	apt-key adv --keyserver keyserver.ubuntu.com --recv-keys AEEC34D2E6D9BF07 >/dev/null 2>&1
 elif [ -n "$(uname -m | grep mips)" ]; then
     _arch=mips
     feed1="src/gz oscam-installer-cam http://feed.tv-lounge.eu/mipsel"
@@ -38,14 +36,13 @@ elif [ -e /etc/apt/sources.list.d ]; then
 	{"name":"Oscam-Installer Packages", "hide":0, "sort":1, "desc":"Oscam-Installer Packages", "filter":"oscam-installer"},
 	{"name":"Oscam-Installer Packages", "hide":0, "sort":1, "desc":"Oscam-Installer Packages", "filter":"enigma2-plugin-softcams-oscam-installer"}] }' | tee /etc/enigma2/AddonFilterlist_oscam-installer.json > /dev/null
 	fi
-	apt install -y coreutils > /dev/null
 	if grep -qs -i "newnigma2" /etc/image-version ; then
 	  feed2="deb [trusted=yes] http://feed.tv-lounge.eu/main-nn2 ./"
 	else
       feed2="deb [trusted=yes] http://feed.tv-lounge.eu/main-deb ./"
 	fi
 	echo $feed2 | tee -a /etc/apt/sources.list.d/oscam-installer.list > /dev/null
-	apt install -y coreutils > /dev/null
+	apt install -y coreutils > /dev/null 2>&1
 	apt-key adv --keyserver keyserver.ubuntu.com --recv-keys AEEC34D2E6D9BF07 >/dev/null 2>&1
 else
     echo "neither opkg nor apt was found ... bailing out"
