@@ -1,5 +1,5 @@
 Package: dep-oscam-installer-ncam
-Architecture: arm64
+Architecture: all
 Version: 0~git0d50412
 Priority: optional
 Section: softcams
@@ -9,14 +9,13 @@ Provides: oscam-installer-ncam
 Depends: libusb-1.0-0 (>= 1.0.0)
 Replaces: oscam-installer-ncam
 Filename: ./dep-oscam-installer-ncam.deb
-Size: 2625808
-MD5sum: ad7293ddf444eda0948c8ed4fc8278e4
-SHA1: 7b74e60b5bf59c7c530ad7f8185da89a3d99a839
-SHA256: cac243b49545ff1e1f2284a75fd79ed5d3feb69a0e943a5e85aba44e3050be10
-SHA512: 267c5cdac8de63559ffe4999a9fdc1f0659b8d49385007cd5e7ab9481255badda9e2a9b36b5e9d908212a2134448d13f4a5b05edfd34c65cbe9c6f2457211d2f
+Size: 2625800
+MD5sum: 7f6cfcce8a380d37ec8dadc9f82a1265
+SHA1: eabf538eb6bcc2340792a1f64cfce5a63f83e4d7
+SHA256: 905f7a9eae696b2e7c5f5b9b4bcbffe5556871a93e623a1e040ec930b9089613
+SHA512: 60c8d4b072ed182e983fc18bf7dc815b79ffa30c091dcfe3b05c008a619085d891c591ccce97e9964e8329cb603413ce731988120b4b2cf2722f7f5f9e311934
 Homepage: https://i.tv-lounge.eu
 Description: ncam version-git0d50412
-PackageArch: aarch64
 
 Package: dep-oscam-installer-oscam-emu
 Architecture: all
