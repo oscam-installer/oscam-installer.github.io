@@ -51,7 +51,7 @@ Description: picons-icam version-20250207
 
 Package: enigma2-plugin-extensions-oscam-installer-ncam
 Architecture: all
-Version: 0~gitbc3f7b3
+Version: 0~gitc6eb35f
 Priority: optional
 Section: base
 Source: https://i.tv-lounge.eu
@@ -60,13 +60,13 @@ Provides: oscam-installer-ncam
 Depends: libusb-1.0-0 (>= 1.0.0)
 Replaces: oscam-installer-ncam
 Filename: ./newnigma2-camd-oscam-installer-ncam.deb
-Size: 2626528
-MD5sum: 40530c87db285b08b2ce5964c31fe9e3
-SHA1: af648c00ca9c03408c37bea3c06503fbff2a2cf7
-SHA256: 93d8dca36767142a204307990f6aee586e3519c3296123458d0a459d18d627d5
-SHA512: 72b0a7d4049be1a8228f3b53fd933b9abe560cd004ba256c10802fa8839bb379048e4687c8fd2a6c29cac14d7097ad9f593b258b98162fa8345fee13055073e1
+Size: 2626044
+MD5sum: a320d2c07d4a7fb6db9af88d223f4604
+SHA1: 3da149dce831728f66a0c0c25282d6caed1aa52c
+SHA256: 077d9b2e99af7bb8b947e1d659060e34128c6100d7235ece03269d170587ea85
+SHA512: 928956bd651ff266160de8c45e7a8a070bfbac3345c055885ba5cc24b31d0f2a77297437ffe6dc977563d7d2e73a19eb8a9672e5fc969ccec92672e752c487cf
 Homepage: https://i.tv-lounge.eu
-Description: enigma2-plugin-softcams-ncam version-gitbc3f7b3
+Description: enigma2-plugin-softcams-ncam version-gitc6eb35f
 OE: enigma2-plugins
 X-DreamOS-Tags: System
 
