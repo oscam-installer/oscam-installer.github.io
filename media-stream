@@ -9,7 +9,7 @@ if [[ ! " ${SUPPORTED_VERSIONS[@]} " =~ " ${PYTHON_VERSION} " ]]; then
     exit 1
 fi
 
-BASE_FEED=  wget -O - -q http://feed.tv-lounge.eu/media-stream | bash
+BASE_FEED=http://feed.tv-lounge.eu/mediastream
 
 if [ -e "$D/etc/opkg/mediastream-feed.conf" ]; then
     rm "$D/etc/opkg/mediastream-feed.conf" >/dev/null 2>&1 || true
