@@ -81,11 +81,11 @@ Provides: oscam-installer-oscam-emu
 Depends: libusb-1.0-0 (>= 1.0.0)
 Replaces: oscam-installer-oscam-emu
 Filename: ./enigma2-plugin-extensions-oscam-installer-oscam-emu.deb
-Size: 3252160
-MD5sum: bd9cb500b3e69f200d9cc6285d363077
-SHA1: b2e04a0aa58d3378f3b840726a0dd2babea81312
-SHA256: fe2c756730108982d56bad52e764f61f632726498432feb59858bbdb5febbc9d
-SHA512: 88b4ea82a03cc1c4c182e26fc27792e5e391b4ec9d431a6b0d280ee031ad9378d2514ad798a9fce60674fbe5134961c6caa8add1b5deda5ce4ffbb676896f619
+Size: 3258564
+MD5sum: 7af286d240cb87dd0a30346b3d4184dd
+SHA1: 5636bc89e164253903baea123bdfadb137c3d1ae
+SHA256: a80e3428fe8a64a60e667ca59b5fdf06ebbe1124f869176d9e19f98a19422f28
+SHA512: e16fa259faaa329c6dd19fe4e368690e70359eb7099d11d067c340f4be1eb5898e263b058ee90fbfe99d2787dcbdd84d925102f5fd3d4a1cface3c26b66e3a05
 Homepage: https://i.tv-lounge.eu
 Description: enigma2-plugin-softcams-oscam version-11880-emu
 Tags: System
@@ -101,11 +101,11 @@ Provides: oscam-installer-oscam-neon-emu
 Depends: libusb-1.0-0 (>= 1.0.0)
 Replaces: oscam-installer-oscam-neon-emu
 Filename: ./enigma2-plugin-extensions-oscam-installer-oscam-neon-emu.deb
-Size: 3251120
-MD5sum: 410c42746033aa7ad3827f5e542152d2
-SHA1: dbbfa3df21c4a1b6e47c1ecaa337447bd5ce3217
-SHA256: 0882663d8ea6fd6841fdf00d436baa64a04993f830e1e214e8c81670916e95ce
-SHA512: 9f3f23d02255aa9e07ee2e74c1e90eed16ad230dc581b83480f20129d03524e89217c8e9c79a3ef6cbded86777a5d742a61f4a30c2042dff8bc656b45bfe5127
+Size: 3257676
+MD5sum: fe418a300c6efd8baf26f75433222eac
+SHA1: d863b7bbcfa6a02d4cc1a96f9aeb1fa0bcd69fea
+SHA256: e27699028c6c10e564463fb2d0eff4c4523d61ea0f42695d0bc09f8a7101e42b
+SHA512: 8d2f88d818c25d2271732eabb06bc29fc29069827788adb2034801e14a6d79b2c120c743e8608ad7bcf93b7cd011f759c9b48b9b88d02f54ebd1f6b2f099415f
 Homepage: https://i.tv-lounge.eu
 Description: enigma2-plugin-softcams-oscam version-11880-neon-emu
 Tags: System
@@ -121,11 +121,11 @@ Provides: oscam-installer-oscam-neon
 Depends: libusb-1.0-0 (>= 1.0.0)
 Replaces: oscam-installer-oscam-neon
 Filename: ./enigma2-plugin-extensions-oscam-installer-oscam-neon.deb
-Size: 3130292
-MD5sum: a20a7da2a144da7e4c78d6c012866edd
-SHA1: eea0458600d811cb45b287dbfc67e37b2c3922fd
-SHA256: 1cbe83b9a6ba1294a2b1cacb203ca503b3cf425062e90287fb50d83783582659
-SHA512: 2e688ee87e0098e84a24e365ca895ae9b4c9695ff8457c91ee8cab22bd63f40bb35d7a1519e5c514a6f33e1d65067343dccd0f8d4c348072d58c87f7fcd890fc
+Size: 3131500
+MD5sum: d3e34a976f6f6ecfad015c1a3b85e5d3
+SHA1: a9aae12552232fc0604a88d58fa63f77de7a347e
+SHA256: 835e0eef66d9c25b97d528a5e01e63ba7aa1c3d11e35877d9243991fbffb575b
+SHA512: 10f22b55327458fa316dea03fa085337ff60e1307002eadea790497fb23ca1f54f38f74e29c57b0b82432502e9cadf599f8a3782aee2af81481bb3fbc62d6354
 Homepage: https://i.tv-lounge.eu
 Description: enigma2-plugin-softcams-oscam version-11880-neon
 Tags: System
@@ -141,11 +141,11 @@ Provides: oscam-installer-oscam
 Depends: libusb-1.0-0 (>= 1.0.0)
 Replaces: oscam-installer-oscam
 Filename: ./enigma2-plugin-extensions-oscam-installer-oscam.deb
-Size: 3131348
-MD5sum: f57eecce9aca9f0b2415298de9a8788d
-SHA1: da73998292607a16a47512bd360d9deba1037028
-SHA256: aa17c622c3d752a4274e516ecc8590f2868a6d8602870c15604302e3df8e186e
-SHA512: 239d507eae7e837f2369ac1906026089bfd0386b862899c31213286559149dba1e2638200e56ba6a0343efdd09794e75a7fa69fbc7d6d216461f37ac9f336f5f
+Size: 3131488
+MD5sum: 12b9e819ecaa2b734703665e974ed9a6
+SHA1: fcdf5a27016147db203767150adc001148101151
+SHA256: 3d92a8d0731fa4dfa7537881e6ca8d88b878f500e16caa2b30a243e4f62222ea
+SHA512: b15dcddd6cc3de9de56f3525eac5a6fc4ba47524e5cdc7b19b8ea1b7609aa6a5ea157ff6781f3de390bcf59a9c09d9f82b28f6ddf3560715c8baf5273563b65a
 Homepage: https://i.tv-lounge.eu
 Description: enigma2-plugin-softcams-oscam version-11880
 Tags: System
