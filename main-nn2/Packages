@@ -81,11 +81,11 @@ Provides: oscam-installer-oscam-emu
 Depends: libusb-1.0-0 (>= 1.0.0)
 Replaces: oscam-installer-oscam-emu
 Filename: ./newnigma2-camd-oscam-installer-oscam-emu.deb
-Size: 3252548
-MD5sum: 251c9c1bd2834255f8d089705636d8b7
-SHA1: e3dfae921ade4c9fc00eb78ed47d30feda9e25a4
-SHA256: 6cb643036f4b6747f93de154b6dae5df66b91973a15e0d553eac29916bb94885
-SHA512: 3bbea7d4d7d0db2ccbe5b1ba1dcdffe273e104e990531ed75590cdfe4fb08cff3e754f56345bacdf6c7bd335dba6e9841d19fde06ba79d18a0c25f5960af8d45
+Size: 3257920
+MD5sum: 5c8b38eb62a5292cb1ba20beb28dabed
+SHA1: 995362347f12916440572b222cf6009f0d87ceef
+SHA256: d3e42dbeb55b3b7c7db38020bbbc4987787e8209b0c171125f5fe50351ac9fcb
+SHA512: 2ad26bd5b04e5e47174db21957c6ee7271aedcf2b58c3a458f1d81c7799f39b0c3bfbe6d37fc87dca8116939ddc1cf8eae5802c64f0fe1089720e24ef6c49bb4
 Homepage: https://i.tv-lounge.eu
 Description: newnigma2-camd-oscam version-11881-emu
 
@@ -100,11 +100,11 @@ Provides: oscam-installer-oscam-neon-emu
 Depends: libusb-1.0-0 (>= 1.0.0)
 Replaces: oscam-installer-oscam-neon-emu
 Filename: ./newnigma2-camd-oscam-installer-oscam-neon-emu.deb
-Size: 3252040
-MD5sum: 676638175be7b3f4a9019dedd3e9ec33
-SHA1: a0f3f5782f8187233e4a048fd92c207ae6cb1cbf
-SHA256: 3ddb5e3e7f28aa6592e5b59a157cd1a88e3a825fd2fc8e0b5a4307f7a9446b2d
-SHA512: 7ba5803384e91724b7201307bc5378d64ceaa401f57520d8e80adb1ae8cd97b0eed4ca57968807749b19d1c94287443e6fd1f04359fc3236f4ad22b114268348
+Size: 3256768
+MD5sum: 31c3a891d4f2b46db3979610049fc54f
+SHA1: 04d2b6902d5b73062ae1db6929e412beadc8d9eb
+SHA256: 8a710be206c7967a486c56e1df93cf2fb0dd2453e6c6d15ee3da288067d23156
+SHA512: 5e2fa4cd0dca1daa4c44c4f7b56ad29b87a35f186040dc290192a511dc3170c8b43dc65df259a94930ddaa66d64cdea377cdadf88e1d3049bf958cf79f87329f
 Homepage: https://i.tv-lounge.eu
 Description: newnigma2-camd-oscam version-11881-neon-emu
 
@@ -119,11 +119,11 @@ Provides: oscam-installer-oscam-neon
 Depends: libusb-1.0-0 (>= 1.0.0)
 Replaces: oscam-installer-oscam-neon
 Filename: ./newnigma2-camd-oscam-installer-oscam-neon.deb
-Size: 3131300
-MD5sum: b76e42864a2b1baac4527b642dd34762
-SHA1: 3d5a9db52a069a303abae1db59f2a2b2df6b9a3e
-SHA256: a9d8c44272fad41f0773d4c2e09a266df621346b8fe9d890033aed1f3d65cfc2
-SHA512: 671b4210ebec7e29793f1bce32e5c64537515591d75c2c4a15fb62653d4f02b980d84552ddf96c6e29be6b3d5825503753c6dd58c9d58bb4ee3c28094938e41f
+Size: 3133788
+MD5sum: 31e7170afa26f26da159a6dd9ba4d360
+SHA1: 68cf37809dc7efd4ffce017e27c4e679680cfb10
+SHA256: 319f69ca6b4c75c5faf71f266f82de8b01b78811c0f1370425b720c8b918d74a
+SHA512: 61857d5283e0938d50c3438b34e4b7d1aa251088ed9bdbfb532e5a447ecc7053d55575cb8fdfcceb959c89f931139bd2447bcb2a26e1f83b58e832c52a3c1189
 Homepage: https://i.tv-lounge.eu
 Description: newnigma2-camd-oscam version-11881-neon
 
@@ -138,11 +138,11 @@ Provides: oscam-installer-oscam
 Depends: libusb-1.0-0 (>= 1.0.0)
 Replaces: oscam-installer-oscam
 Filename: ./newnigma2-camd-oscam-installer-oscam.deb
-Size: 3130436
-MD5sum: a3fdeed05bef854ca33f309c4d8c0916
-SHA1: fb91d6d8dd84a760ac987710be384a0876bcaf56
-SHA256: 5541f5c63d7df765df7a797f7eb76af3c4a403f74bcb37081685f9d0afbe5e7c
-SHA512: 0ace3acfc9d0253e60ef58d774412f4bf188b43b8322d0b2cd8d2d8574ff68602cdf526359a5ff84e55713be90fbe4d17fcbe1138c10cf18affed2392a86d447
+Size: 3132988
+MD5sum: dd29dd19d94b5949624e7831b248f565
+SHA1: ef09829b2a077cbab85e7702e7a9f4d92acb320e
+SHA256: d6cd1d9b3f41ee856c068b7d51fcadd576508539ac5201443459d7fd88efe518
+SHA512: 87a559ea51391de98dfe1feb4942e9c866f00098120c5ac075ed976e189dcdb7be8963642836f50abf965e73bb571fbd58f380009e52df59fa6c0834734aa8e2
 Homepage: https://i.tv-lounge.eu
 Description: newnigma2-camd-oscam version-11881
 
