@@ -49,6 +49,52 @@ SHA512: 318d23e68f849b9ed10fb46f94d78cb837acb782c9ffa23c3e8b4dbef7c8030ab3149077
 Homepage: https://i.tv-lounge.eu
 Description: picons-icam version-20250207
 
+Package: enigma2-plugin-extensions-xklass
+Architecture: all
+Version: 1.49-20250430
+Priority: optional
+Section: misc
+Source: https://www.linuxsat-support.com
+Maintainer: kiddac
+Depends:
+Filename: ./enigma2-plugin-extensions-xklass_1.49-20250430_all.deb
+Size: 5388076
+MD5sum: 50fd75637f6ec40912939dfb8bc9f83f
+SHA1: a0ebdf3a337d4124641221614122dc9a4cf24bc8
+SHA256: 66a27a528aa5dee35b68dba555ea75f71df85ef906ad82fd6565af24daea0b04
+SHA512: cedb3e562333bdae1fff00fc0e0e36162b39db1ecaa5b115f085ddac69ce864f3af1a2f9f69382d001c650ba2737972ebf497ab7443ea6f6a20525160cd5ec48
+Description: IPTV Xtream Codes/XUI One playlists player by KiddaC
+
+Package: enigma2-plugin-extensions-xstreamity
+Architecture: all
+Version: 4.92-20250402
+Priority: optional
+Section: misc
+Source: https://www.linuxsat-support.com
+Maintainer: kiddac
+Depends:
+Filename: ./enigma2-plugin-extensions-xstreamity_4.92-20250402_all.deb
+Size: 4340276
+MD5sum: 16bdd552799c2a1eb17eda787f700170
+SHA1: 3ab1fe23f71b7575d42cc9bbf489177c9f2da397
+SHA256: 74731437bd2ebbe91503f8a277e7c72beb4cda7a41f4cee04eeb048779272708
+SHA512: 3ced8a08e88d07ee2e979a83439180c00d9ffb35b0aed404950da0522d9375b03262e5736791c1ba517b98decfba5b93b7341ddd832c94b04313b6dc38e45123
+Description: IPTV Xtream Codes/XUI One playlists player by KiddaC
+
+Package: enigma2-plugin-extensions-bouquetmakerxtream
+Architecture: all
+Version: 1.52-20250430
+Priority: optional
+Section: misc
+Maintainer: kiddac
+Filename: ./enigma2_plugin_extensions_bouquetmakerxtream_1_52_20250430_all.deb
+Size: 1182180
+MD5sum: 1d7d2adb66b26da6f8d7495ac76a170d
+SHA1: c0c34f7a4200a695cb820063974a6dd3228b87a9
+SHA256: f6ac1550b04679a6a8cc656d3967baebb98a53e656b569d254b34c9851e29303
+SHA512: 6c69f47f79722055cffd9c051e4608a67332df8c0ae0eddd8513cad6049a0714de3d025493aa08126f527990fd85baa931175fcf86c59c7310aadb087bcde808
+Description: Bouquet Maker Xtream - IPTV bouquet maker
+
 Package: enigma2-plugin-extensions-oscam-installer-ncam
 Architecture: all
 Version: 0~gitfbb33b0
