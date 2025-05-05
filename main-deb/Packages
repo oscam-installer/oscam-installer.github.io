@@ -152,34 +152,18 @@ Tags: System
 
 Package: enigma2-plugin-extensions-xklass
 Architecture: all
-Version: 1.49-20250430
+Version: 1.51-20250505
 Priority: optional
 Section: misc
 Source: https://www.linuxsat-support.com
 Maintainer: kiddac
 Depends:
-Filename: ./enigma2-plugin-extensions-xklass_1.49-20250430_all.deb
-Size: 5388076
-MD5sum: 50fd75637f6ec40912939dfb8bc9f83f
-SHA1: a0ebdf3a337d4124641221614122dc9a4cf24bc8
-SHA256: 66a27a528aa5dee35b68dba555ea75f71df85ef906ad82fd6565af24daea0b04
-SHA512: cedb3e562333bdae1fff00fc0e0e36162b39db1ecaa5b115f085ddac69ce864f3af1a2f9f69382d001c650ba2737972ebf497ab7443ea6f6a20525160cd5ec48
-Description: IPTV Xtream Codes/XUI One playlists player by KiddaC
-
-Package: enigma2-plugin-extensions-xklass
-Architecture: all
-Version: 1.50-20250503
-Priority: optional
-Section: misc
-Source: https://www.linuxsat-support.com
-Maintainer: kiddac
-Depends:
-Filename: ./enigma2-plugin-extensions-xklass_1.50-20250503_all.deb
-Size: 5388188
-MD5sum: b5654225534f8dee7c8b13318c278b43
-SHA1: 6a9559891d076b04f5c5dcbcd02813c49340cda2
-SHA256: 3757a57499a3a6f832367a6c4d2105cab3344f25f6eab11dc6d7f217ecbcbdea
-SHA512: 4a7e5ff14388f0b2b0192f0b0263fa4fbd43d6677f8638e1d89e99426aa47b99e774958ab0b8585b248e9f9a53092852eccae1f46778e8009d69c1ec593e3302
+Filename: ./enigma2-plugin-extensions-xklass_1.51-20250505_all.deb
+Size: 5388272
+MD5sum: f7d930437e552cf2c36bc88570d39f36
+SHA1: 70fd6e24224f0db432245b73677f28d1a7e0c6ed
+SHA256: 8ab4249acf1cd307662304127618b3094f3261bac18cf1cf703161dc28ca2f15
+SHA512: f1ca5bfcc72a90dbd6eac6f0d7f2edc78e573d8b9d4e9e073192fecca27178cd37d2669625ecd1e5b0f9772a79dac16722df9a1d1031b6430a3511d08313845c
 Description: IPTV Xtream Codes/XUI One playlists player by KiddaC
 
 Package: enigma2-plugin-extensions-xstreamity
