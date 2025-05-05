@@ -5,7 +5,7 @@ if [ -n "$(uname -m | grep armv7l)" ]; then
         feed1="src/gz oscam-installer-cam http://feed.tv-lounge.eu/arm"
 	echo $feed1 | tee -a /etc/opkg/3rd-party-feed.conf > /dev/null
 elif [ -n "$(uname -m | grep aarch64)" ]; then
-    _arch=arm64
+    _arch=aarch64
 	if [ -e /etc/apt/sources.list.d/oscam-installer.list ]; then
 	rm /etc/apt/sources.list.d/oscam-installer.list
 	fi
