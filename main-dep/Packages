@@ -148,18 +148,18 @@ Description: picons-icam version-20250207
 
 Package: enigma2-plugin-extensions-xklass
 Architecture: all
-Version: 1.51-20250505
+Version: 1.52-20250517
 Priority: optional
 Section: misc
 Source: https://www.linuxsat-support.com
 Maintainer: kiddac
 Depends:
-Filename: ./enigma2-plugin-extensions-xklass_1.51-20250505_all.deb
-Size: 5388272
-MD5sum: f7d930437e552cf2c36bc88570d39f36
-SHA1: 70fd6e24224f0db432245b73677f28d1a7e0c6ed
-SHA256: 8ab4249acf1cd307662304127618b3094f3261bac18cf1cf703161dc28ca2f15
-SHA512: f1ca5bfcc72a90dbd6eac6f0d7f2edc78e573d8b9d4e9e073192fecca27178cd37d2669625ecd1e5b0f9772a79dac16722df9a1d1031b6430a3511d08313845c
+Filename: ./enigma2-plugin-extensions-xklass_1.52-20250517_all.deb
+Size: 5388144
+MD5sum: 10a4225b355953bebb9b41ab40ae4904
+SHA1: ad833592aaf0fc6443fb8960eff601dbbcb74566
+SHA256: ec34a1997b04d84c9916d62e3e4c2e529e2ca9258733e7976ea430331774be9c
+SHA512: 39e4f36d6179a405fc1fc62001a245a3c606d9294082386c6b3089d74f08dbadd3188296b8bb09fbb14f423e03ea640b30908ac111f818244dfac4a0730b5aa7
 Description: IPTV Xtream Codes/XUI One playlists player by KiddaC
 
 Package: enigma2-plugin-extensions-xstreamity
