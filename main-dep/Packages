@@ -1,0 +1,194 @@
+Package: enigma2-plugin-extensions-oscam-installer-ncam
+Architecture: all
+Version: 0~git94cf41d
+Priority: optional
+Section: base
+Source: https://i.tv-lounge.eu
+Maintainer: OSCam-Installer <oscam-installer@proton.me>
+Provides: oscam-installer-ncam
+Depends: libusb-1.0-0 (>= 1.0.0)
+Replaces: oscam-installer-ncam
+Filename: ./dep-oscam-installer-ncam.deb
+Size: 3197120
+MD5sum: 6696212be81a6f8e0c6c114ffd68d371
+SHA1: 2a62a1f59733920c8cfcb4617414fc4c67fb6090
+SHA256: 5a1dcfb35dad38597b025c37f01982760615eb26c72d0bb5be14d79372a57f22
+SHA512: e2e6c2b72ee4a3a23ef6143d627b5d1e1634534d52ffff8782dafd0c8f1ec9632528d8651c53a4395ddc52d99239a31118ca849e938d6317ccef13f128fe1e73
+Homepage: https://i.tv-lounge.eu
+Description: enigma2-plugin-softcams-ncam version-git94cf41d
+OE: enigma2-plugins
+X-DreamOS-Tags: System
+
+Package: dep-oscam-installer-oscam-emu
+Architecture: all
+Version: 11869-emu
+Priority: optional
+Section: softcams
+Source: https://i.tv-lounge.eu
+Maintainer: OSCam-Installer <oscam-installer@proton.me>
+Provides: oscam-installer-oscam-emu
+Depends: libusb-1.0-0 (>= 1.0.0)
+Replaces: oscam-installer-oscam-emu
+Filename: ./dep-oscam-installer-oscam-emu.deb
+Size: 3849008
+MD5sum: 92c3e155efa1e7f4d43cdb840378b20c
+SHA1: 43920ec7bcad86537e243b3ed06afb6be339516d
+SHA256: b3dc550b89266bab06ff3a9cecd46469a73895be0d8a2d4d33f65fe346aa79d6
+SHA512: b5ebde9f22beabd68ea36c29e9c1647c889bec3aef7fc45c4013c0fe0e283cf47d163ff624d7010cc8831b9dd6018deefd2bfce3cb11a3912722b0a1c689cf0f
+Homepage: https://i.tv-lounge.eu
+Description: dep-oscam version-11869-emu
+
+Package: dep-oscam-installer-oscam-neon-emu
+Architecture: all
+Version: 11869-neon-emu
+Priority: optional
+Section: softcams
+Source: https://i.tv-lounge.eu
+Maintainer: OSCam-Installer <oscam-installer@proton.me>
+Provides: oscam-installer-oscam-neon-emu
+Depends: libusb-1.0-0 (>= 1.0.0)
+Replaces: oscam-installer-oscam-neon-emu
+Filename: ./dep-oscam-installer-oscam-neon-emu.deb
+Size: 3888672
+MD5sum: cf9f79cc35b421aaea563e12bacda5b2
+SHA1: 8a417af3681170c1b82e8aefcd038ff0f40246e5
+SHA256: ec25291a0d69ddd62d005dc3b546a336765e831e4dde7440e7f16270f9d84285
+SHA512: a10627b7302af7f5788bce4029d6f4f9e3dad0bff06dd34988d2bd12ef1ba7ad9eece17f708dd6db05538895806b0db8da06a1a14cbc8a38a00f8ab34db8d5c5
+Homepage: https://i.tv-lounge.eu
+Description: dep-oscam version-11869-neon-emu
+
+Package: dep-oscam-installer-oscam-neon
+Architecture: all
+Version: 11869-neon
+Priority: optional
+Section: softcams
+Source: https://i.tv-lounge.eu
+Maintainer: OSCam-Installer <oscam-installer@proton.me>
+Provides: oscam-installer-oscam-neon
+Depends: libusb-1.0-0 (>= 1.0.0)
+Replaces: oscam-installer-oscam-neon
+Filename: ./dep-oscam-installer-oscam-neon.deb
+Size: 3749868
+MD5sum: 0f77ffd87d247695bab26563212362be
+SHA1: d6be343be0d81e4233aad979f44de7c59303a77b
+SHA256: d51ea1ae9e9307c1b6d147c738be370ef470afcc392d661ebd2ac1769e1e7bc3
+SHA512: 2feff0edc2c2fb9714d2057195a43ca4265c582de2f90dd814265febae779b7e531340ba4acb1a6475c4f92396355d77b99782dbfe3563c6e0a759f8591a6ee7
+Homepage: https://i.tv-lounge.eu
+Description: dep-oscam version-11869-neon
+
+Package: dep-oscam-installer-oscam
+Architecture: all
+Version: 11869
+Priority: optional
+Section: softcams
+Source: https://i.tv-lounge.eu
+Maintainer: OSCam-Installer <oscam-installer@proton.me>
+Provides: oscam-installer-oscam
+Depends: libusb-1.0-0 (>= 1.0.0)
+Replaces: oscam-installer-oscam
+Filename: ./dep-oscam-installer-oscam.deb
+Size: 3749924
+MD5sum: 2e415d8e6f687ae3820ed07afc1e18a1
+SHA1: 3f24a0af1f940e957b62f5b5b292a3eac53d0288
+SHA256: 316c0421c42299c440dbd785415cb6a95b9b7d0eaa02b4b07d86fc54df076075
+SHA512: ed74698acb7aeea6e7c9288245ff1acd7e82a0b4e8a3acd6cd96597d755bed34d6b9eff99c3113cb78b682d9645313c0a4ea9176f6968eaacb76e91cc5d5b946
+Homepage: https://i.tv-lounge.eu
+Description: dep-oscam version-11869
+
+Package: enigma2-plugin-extensions-oscam-installer-settings-icam-astra-multi
+Architecture: all
+Version: 20250207
+Priority: optional
+Section: base
+Source: https://i.tv-lounge.eu
+Maintainer: OSCam-Installer <oscam-installer@proton.me>
+Depends:
+Filename: ./enigma2-extensions-oscam-installer-settings--icam-astra-multi.deb
+Size: 2784
+MD5sum: cb42d02f470c5804d5dcf9d1427b0757
+SHA1: 62890be4f3eba2033f9cef72104480b573270684
+SHA256: 4c7cb05407aca841f50bf29e7ff5e52bf3bb87ca4940e86c53b45e06e11d5bed
+SHA512: 574156e449f54369ef7b55d4c7d90c346431858f463a0fcfba9860c253479162601d4d37c8d4ec788439f9051daa8ff342edaed2160eb38a43b2c2a5ae649fcb
+Homepage: https://i.tv-lounge.eu
+Description: settings icam astra multi
+
+Package: enigma2-plugin-extensions-oscam-installer-settings-icam-astra-single
+Architecture: all
+Version: 20250207
+Priority: optional
+Section: base
+Source: https://i.tv-lounge.eu
+Maintainer: OSCam-Installer <oscam-installer@proton.me>
+Depends:
+Filename: ./enigma2-extensions-oscam-installer-settings--icam-astra-single.deb
+Size: 2436
+MD5sum: a3b20ac7e8f62588ebe1f4b4015eb2c7
+SHA1: 31fc514de4b5770ad3041bee075cbefe70e740ee
+SHA256: a480b9a797c93feed845fd19b6d709843c778d9696ebaf53f10c92d77b264ea1
+SHA512: 8c021e82340dedac28a4adc5d9fc41e24528210d6a6de1321a0eb61b974068e04cf4df6138304bd02108358e1c79fa51a3073acf4e56fad7b353b98c3dab61ca
+Homepage: https://i.tv-lounge.eu
+Description: settings icam astra single
+
+Package: enigma2-plugin-extensions-oscam-installer-picons-icam-picons
+Architecture: all
+Version: 20250207
+Priority: optional
+Section: base
+Source: https://i.tv-lounge.eu
+Maintainer: OSCam-Installer <oscam-installer@proton.me>
+Depends:
+Filename: ./enigma2-extensions-oscam-installer-settings--picons-icam.deb
+Size: 597672
+MD5sum: 532e4a2ff143a3f81340c9e50cb72c8c
+SHA1: 7969cd49bede29be96ceb41eab59e0d3eaca4b09
+SHA256: f724cc2abd2abb0b735e29e0198fd723805b73fc6928de691dad3edee467ad2c
+SHA512: 318d23e68f849b9ed10fb46f94d78cb837acb782c9ffa23c3e8b4dbef7c8030ab31490776c39df7aed1b601eefc205dc1ae9e9aef43dceb2c35bd3503c885e50
+Homepage: https://i.tv-lounge.eu
+Description: picons-icam version-20250207
+
+Package: enigma2-plugin-extensions-xklass
+Architecture: all
+Version: 1.52-20250517
+Priority: optional
+Section: misc
+Source: https://www.linuxsat-support.com
+Maintainer: kiddac
+Depends:
+Filename: ./enigma2-plugin-extensions-xklass_1.52-20250517_all.deb
+Size: 5388144
+MD5sum: 10a4225b355953bebb9b41ab40ae4904
+SHA1: ad833592aaf0fc6443fb8960eff601dbbcb74566
+SHA256: ec34a1997b04d84c9916d62e3e4c2e529e2ca9258733e7976ea430331774be9c
+SHA512: 39e4f36d6179a405fc1fc62001a245a3c606d9294082386c6b3089d74f08dbadd3188296b8bb09fbb14f423e03ea640b30908ac111f818244dfac4a0730b5aa7
+Description: IPTV Xtream Codes/XUI One playlists player by KiddaC
+
+Package: enigma2-plugin-extensions-xstreamity
+Architecture: all
+Version: 4.92-20250402
+Priority: optional
+Section: misc
+Source: https://www.linuxsat-support.com
+Maintainer: kiddac
+Depends:
+Filename: ./enigma2-plugin-extensions-xstreamity_4.92-20250402_all.deb
+Size: 4340276
+MD5sum: 16bdd552799c2a1eb17eda787f700170
+SHA1: 3ab1fe23f71b7575d42cc9bbf489177c9f2da397
+SHA256: 74731437bd2ebbe91503f8a277e7c72beb4cda7a41f4cee04eeb048779272708
+SHA512: 3ced8a08e88d07ee2e979a83439180c00d9ffb35b0aed404950da0522d9375b03262e5736791c1ba517b98decfba5b93b7341ddd832c94b04313b6dc38e45123
+Description: IPTV Xtream Codes/XUI One playlists player by KiddaC
+
+Package: enigma2-plugin-extensions-bouquetmakerxtream
+Architecture: all
+Version: 1.52-20250430
+Priority: optional
+Section: misc
+Maintainer: kiddac
+Filename: ./enigma2_plugin_extensions_bouquetmakerxtream_1_52_20250430_all.deb
+Size: 1182180
+MD5sum: 1d7d2adb66b26da6f8d7495ac76a170d
+SHA1: c0c34f7a4200a695cb820063974a6dd3228b87a9
+SHA256: f6ac1550b04679a6a8cc656d3967baebb98a53e656b569d254b34c9851e29303
+SHA512: 6c69f47f79722055cffd9c051e4608a67332df8c0ae0eddd8513cad6049a0714de3d025493aa08126f527990fd85baa931175fcf86c59c7310aadb087bcde808
+Description: Bouquet Maker Xtream - IPTV bouquet maker
+

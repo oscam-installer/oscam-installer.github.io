@@ -1,0 +1,34 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Date: Sat, 17 May 2025 21:30:27 +0000
+MD5Sum:
+ f8dba5a029f71dcd2b6ca28089294b53             7859 Packages
+ 47c69d43edf7ffae2923fb191ede3732             2736 Packages.gz
+ 9d33802cc86b9d83f158ced1b4e3bc6e               38 Release
+SHA1:
+ 6773199168e0aea136395fafb3282cf82a15f7c2             7859 Packages
+ cc6136abf21f6a7494efeaea82c7f3cf6436f3d7             2736 Packages.gz
+ e3a7c1f72c9c9515f1e2696eaf2361e098dc1f76               38 Release
+SHA256:
+ a1d1cce070cd1f4d508482e5445928a58a1c8eea997e9b3eb4f485459903c2e6             7859 Packages
+ 162b79aad63740c4daa05881e44c1fdb9c8267745aa627381e26c558cbdf300a             2736 Packages.gz
+ 6761cb2398022d8788aeeec8b0d4584ec5d2d415a212e5a4e107c5daba9f15d9               38 Release
+SHA512:
+ ca1d2144c2c9616c632e630c9a1528d3163ec4e00ceb2d802ac7252031b09066c94ed165086ecc2f4afc05b177d72d8bfe128a40524e29d0aeaeecb4694079a4             7859 Packages
+ 1904ffabdc7ed402da752410029eb8ce65e0245e1d38ad2c52c67636e6410fa817c333922ac89156a0887fe2924ac32c4024b8f02c29cae01f65ffce2cfcd561             2736 Packages.gz
+ ac0f004d556080a9627050e1e60172d44dee9b2a78f0095f8c98378d2199b93a3f655cce2a8bcf0993de7d88587ba6f6840859c39b6da9db88b4586cfc591593               38 Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEE4beBZ+0FctuKgcT5ruw00ubZvwcFAmgo//MACgkQruw00ubZ
+vwck+wwApw1JCsi2vudDo5YxnUoCiBEqA64UUI9G/s2kA6sRy21TjJCg2GYBPuLi
+WxXa9GOdt/JhWPBJC1sW8MlxpLP79Lt1RFnf9QA1xppfoW2CBF7cx1wFsboUDZVO
+oezVPDGxLIjP2fZHe5NhXerhfsD4XxVIeXFZwOEoqxEOyOJwbivGxOJ2v1O7U5et
+PqUuf+cZAjC2fdwf8uSPkJmnrjNRzVXVZuIP47XmwFtzgG3qkpNyhfyGaj8sk7eQ
+jcZbQe777QxEmBvE/LQo/2hsS1B71curkR3E3Apug5K3xTXcAC9uJEIGKUXY4Y3D
+D5HHXoSw+czifhb80eqGObzn2fzCVJ4YrhbKh6i5xLX1+4FboyJT4XZaIIm1uogo
+3XGyKG1xuoTdj6ULcpbH0rcUHtrxcessy4mOYLjtalyaU7L2kcrxa7Xm1opI1NAd
+WW8+BmkCYFivGTwboXiMT1tffR7oCPXtmGrghISKp2KyyViPsa/o8AEY5GuVcjwL
+1n+rBnyx
+=ej82
+-----END PGP SIGNATURE-----
