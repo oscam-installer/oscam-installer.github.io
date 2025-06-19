@@ -95,25 +95,6 @@ SHA256: f6ac1550b04679a6a8cc656d3967baebb98a53e656b569d254b34c9851e29303
 SHA512: 6c69f47f79722055cffd9c051e4608a67332df8c0ae0eddd8513cad6049a0714de3d025493aa08126f527990fd85baa931175fcf86c59c7310aadb087bcde808
 Description: Bouquet Maker Xtream - IPTV bouquet maker
 
-Package: newnigma2-camd-oscam-installer-oscam-emu
-Architecture: all
-Version: 11884-emu
-Priority: optional
-Section: base
-Source: https://i.tv-lounge.eu
-Maintainer: OSCam-Installer <oscam-installer@proton.me>
-Provides: oscam-installer-oscam-emu
-Depends: libusb-1.0-0 (>= 1.0.0)
-Replaces: oscam-installer-oscam-emu
-Filename: ./newnigma2-camd-oscam-emu-roland.deb
-Size: 3275344
-MD5sum: c256c58cd10f54546326152c7458ffc2
-SHA1: 555bd46be4fcfa68b98879aa49703d3ee115bda0
-SHA256: c54539c889d60bdc5969ba5a923b8dc10d30fae119a08c63dc4315a67a18e7b1
-SHA512: 1e2967caa36df8434cf873869e1c6efc98b2c5c72c90a52c3c95fc7f296a46da29b71dd718578f20d49d7f54b4d434bc235ea39c494c00b239affd8d33e12423
-Homepage: https://i.tv-lounge.eu
-Description: newnigma2-camd-oscam version-11884-emu
-
 Package: enigma2-plugin-extensions-oscam-installer-ncam
 Architecture: all
 Version: 0~git94cf41d
@@ -211,6 +192,25 @@ SHA512: af1afac4cb945dc34eb05cc1193a2be1679cbd87658c6be9306c03695d7b78f1a59437b3
 Homepage: https://i.tv-lounge.eu
 Description: newnigma2-camd-oscam version-11884
 
+Package: newnigma2-camd-oscam-installer-oscam-emu
+Architecture: all
+Version: 11884-emu
+Priority: optional
+Section: base
+Source: https://i.tv-lounge.eu
+Maintainer: OSCam-Installer <oscam-installer@proton.me>
+Provides: oscam-installer-oscam-emu
+Depends: libusb-1.0-0 (>= 1.0.0)
+Replaces: oscam-installer-oscam-emu
+Filename: ./newnigma2-camd-roland-oscam-emu.deb
+Size: 3275344
+MD5sum: c256c58cd10f54546326152c7458ffc2
+SHA1: 555bd46be4fcfa68b98879aa49703d3ee115bda0
+SHA256: c54539c889d60bdc5969ba5a923b8dc10d30fae119a08c63dc4315a67a18e7b1
+SHA512: 1e2967caa36df8434cf873869e1c6efc98b2c5c72c90a52c3c95fc7f296a46da29b71dd718578f20d49d7f54b4d434bc235ea39c494c00b239affd8d33e12423
+Homepage: https://i.tv-lounge.eu
+Description: newnigma2-camd-oscam version-11884-emu
+
 Package: newnigma2-camd-oscam-installer-oscam
 Architecture: all
 Version: 11884
@@ -221,7 +221,7 @@ Maintainer: OSCam-Installer <oscam-installer@proton.me>
 Provides: oscam-installer-oscam
 Depends: libusb-1.0-0 (>= 1.0.0)
 Replaces: oscam-installer-oscam
-Filename: ./newnigma2-camd-oscam-roland.deb
+Filename: ./newnigma2-camd-roland-oscam.deb
 Size: 3144184
 MD5sum: 131a5c9135373875d0560b7caae23985
 SHA1: 9f6426f4542bb10d0462655f980dba6b29e6688a
