@@ -95,7 +95,7 @@ SHA512: ed74698acb7aeea6e7c9288245ff1acd7e82a0b4e8a3acd6cd96597d755bed34d6b9eff9
 Homepage: https://i.tv-lounge.eu
 Description: dep-oscam version-11869
 
-Package: dep-oscam-emu-roland
+Package: dep-roland-oscam-emu
 Architecture: all
 Version: 11884-emu
 Priority: optional
@@ -105,14 +105,14 @@ Maintainer: Roland
 Provides: oscam-emu-roland
 Depends: libusb-1.0-0 (>= 1.0.0)
 Replaces: oscam-emu-roland
-Filename: ./dep-oscam-roland-emu.deb
-Size: 2233580
-MD5sum: d512257c3ba93e498a95bd6c6aa0ed8e
-SHA1: 4289f9ec7dbe26fcb6c98a78c37907ffaa2824e6
-SHA256: 508337533bf975b97b8460c248c4ac5aff93b8c07e9ea9bed6ca43eb9d38d0a8
-SHA512: 32d40af9d4d8e2d6f38556c44ba6b45a00254245ece4f8d1278830f6af1d3f6c038ea4860df2004e721c7c4cae8a824d770eef786dfdda031cd900d6d6398d7b
+Filename: ./dep-roland-oscam-emu.deb
+Size: 2233584
+MD5sum: 3c34d4a4a9cebdb406502de362546090
+SHA1: 7294543e0976f4ae4576338c68f123a0a6b58d65
+SHA256: 39458ec7789e3a50a6377401d141dedb1d23d5a30b71223aafc7e186e578f21d
+SHA512: 7506f01c62e9dbff11abbbcdbc60fab22f4712c8374d722d4f569e8da34e53153a11bf7915fac46d9fda7ef7a405ee2400c375361321824f11798024955b8dd4
 Homepage: friendsforroland.github.io/oscam
-Description: dep-oscam version-11884-emu
+Description: dep-roland-oscam version-11884-emu
 
 Package: dep-oscam-installer-oscam
 Architecture: all
@@ -124,7 +124,7 @@ Maintainer: OSCam-Installer <oscam-installer@proton.me>
 Provides: oscam-installer-oscam
 Depends: libusb-1.0-0 (>= 1.0.0)
 Replaces: oscam-installer-oscam
-Filename: ./dep-oscam-roland.deb
+Filename: ./dep-roland-oscam.deb
 Size: 3749936
 MD5sum: 9368abb74d0dc2c402fd69648f187d6f
 SHA1: bfef0148fff6095d0f53ca4ac7326237010d6a4f
