@@ -192,41 +192,41 @@ SHA512: af1afac4cb945dc34eb05cc1193a2be1679cbd87658c6be9306c03695d7b78f1a59437b3
 Homepage: https://i.tv-lounge.eu
 Description: newnigma2-camd-oscam version-11884
 
-Package: newnigma2-camd-oscam-installer-oscam-emu
+Package: newnigma2-camd-roland-oscam-emu
 Architecture: all
 Version: 11884-emu
 Priority: optional
 Section: base
-Source: https://i.tv-lounge.eu
-Maintainer: OSCam-Installer <oscam-installer@proton.me>
-Provides: oscam-installer-oscam-emu
+Source: friendsforroland.github.io/oscam
+Maintainer: Roland
+Provides: oscam-emu-roland
 Depends: libusb-1.0-0 (>= 1.0.0)
-Replaces: oscam-installer-oscam-emu
+Replaces: oscam-emu-roland
 Filename: ./newnigma2-camd-roland-oscam-emu.deb
-Size: 3275344
-MD5sum: c256c58cd10f54546326152c7458ffc2
-SHA1: 555bd46be4fcfa68b98879aa49703d3ee115bda0
-SHA256: c54539c889d60bdc5969ba5a923b8dc10d30fae119a08c63dc4315a67a18e7b1
-SHA512: 1e2967caa36df8434cf873869e1c6efc98b2c5c72c90a52c3c95fc7f296a46da29b71dd718578f20d49d7f54b4d434bc235ea39c494c00b239affd8d33e12423
-Homepage: https://i.tv-lounge.eu
-Description: newnigma2-camd-oscam version-11884-emu
+Size: 2233144
+MD5sum: 6dd01df362309387c03991b7dd323d8a
+SHA1: 979f75c7e29f521511d9633d2d305c860fea4d66
+SHA256: 1458663049b7e348f397a23862d9b819dea57939788ca0a4f60476df2c2660c1
+SHA512: 38378d1116bc4a0f6357499fca95ea6c81dddbf2044ccdb798463f4edb4fea2079da524fcffafdec81d14ae92e66867662bd45741484ed82e32dd5a9a19f625e
+Homepage: friendsforroland.github.io/oscam
+Description: newnigma2-camd-roland-oscam version-11884-emu
 
-Package: newnigma2-camd-oscam-installer-oscam
+Package: newnigma2-roland-camd-oscam
 Architecture: all
 Version: 11884
 Priority: optional
 Section: base
-Source: https://i.tv-lounge.eu
-Maintainer: OSCam-Installer <oscam-installer@proton.me>
-Provides: oscam-installer-oscam
+Source: friendsforroland.github.io/oscam
+Maintainer: Roland
+Provides: oscam-roland
 Depends: libusb-1.0-0 (>= 1.0.0)
-Replaces: oscam-installer-oscam
+Replaces: oscam-roland
 Filename: ./newnigma2-camd-roland-oscam.deb
-Size: 3144184
-MD5sum: 131a5c9135373875d0560b7caae23985
-SHA1: 9f6426f4542bb10d0462655f980dba6b29e6688a
-SHA256: 20912467bbd5001cec79503a96d34e81ca7f4b968fc8820652c386af4b6e88c5
-SHA512: af1afac4cb945dc34eb05cc1193a2be1679cbd87658c6be9306c03695d7b78f1a59437b3de4a24b747528b4c507a37d38cee9b2a9de90164f246a9f03ae46e37
-Homepage: https://i.tv-lounge.eu
-Description: newnigma2-camd-oscam version-11884
+Size: 2095084
+MD5sum: d0d233949e97b96ea71e28954866011f
+SHA1: 437a339ef320cc90ce9e1fd2f9e83be7c8ee5dea
+SHA256: bedbead70c8a789b14ea934d7cfd0dee359a4e8ec10fca0b99da714bf9e6ab9e
+SHA512: e79c289560e8fca820430e71ffda78f329bcfe89018d0c9a5dd2336ce460b2255743d02733e5727cd5b99e3732939f77f3de951f455cdf8a4b785015da6c2df2
+Homepage: friendsforroland.github.io/oscam
+Description: newnigma2-camd-roland-oscam version-11884
 
