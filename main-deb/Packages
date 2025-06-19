@@ -49,6 +49,26 @@ SHA512: e7fefe604dcea3ef35f29c7e75bd3c47df973cd9705085e939198feb516f164eb2c22f19
 Homepage: https://i.tv-lounge.eu
 Description: picons-icam version-20250207
 
+Package: enigma2-plugin-extensions-oscam-emu-roland
+Architecture: all
+Version: 11884
+Priority: optional
+Section: base
+Source: friendsforroland.github.io/oscam
+Maintainer: Roland
+Provides: oscam-emu-roland
+Depends: libusb-1.0-0 (>= 1.0.0)
+Replaces: oscam-emu-roland
+Filename: ./enigma2-plugin-extensions-oscam-emu-roland.deb
+Size: 2235032
+MD5sum: af2353fc747fc4bd3ee3df8f17b34294
+SHA1: 936c953d3bde62f523035a086f5540039e1c3f1e
+SHA256: caa494d7a2a1c019e21d97349428c6b24a949761574517d708c9a9e4fbbe97aa
+SHA512: 6cc9e90e1c2cd6a61ae1b56c67cad98c00394493963a53324a8e2e532702badf4c3dc5142998e6885518de7a863a87a10e8f15381e1510051b1e12ef8788c819
+Homepage: friendsforroland.github.io/oscam
+Description: enigma2-plugin-softcams-oscam-emu-roland version-11884
+Tags: System
+
 Package: enigma2-plugin-extensions-oscam-installer-ncam
 Architecture: all
 Version: 0~git94cf41d
@@ -148,6 +168,26 @@ SHA256: 5c6c9890dacdfafdd101c8ce45493a801eafad96376200ccec08e06a043c8de4
 SHA512: 5c8ffb132c863fc1a661cc106f9e91ed43b1a3d553a0b461a3e2389d85081a49448f4334c9c17421023857e35ad768dfa5942ba36056327b567d95fdfa748d38
 Homepage: https://i.tv-lounge.eu
 Description: enigma2-plugin-softcams-oscam version-11884
+Tags: System
+
+Package: enigma2-plugin-extensions-oscam-roland
+Architecture: all
+Version: 11884
+Priority: optional
+Section: base
+Source: friendsforroland.github.io/oscam
+Maintainer: Roland
+Provides: oscam-roland
+Depends: libusb-1.0-0 (>= 1.0.0)
+Replaces: oscam-roland
+Filename: ./enigma2-plugin-extensions-oscam-roland.deb
+Size: 2089964
+MD5sum: c1c8ac7bddff6950044216082e6f819c
+SHA1: 4b3fa5db5b1f8a8f233119e06ed4415d6ec63319
+SHA256: ac347eb1cadc7824defa1daa80f181729eb54ce439a63707cbc256e105826882
+SHA512: 8a21c36dfbdc6d447da0b40c4335bcaa5b5ff829b09e793f598d5d9fea2e3f852a9bdd4b289eca7839a183bc66342b90ae5a37f3b7a7dabd72f1c99d37353064
+Homepage: friendsforroland.github.io/oscam
+Description: enigma2-plugin-softcams-oscam-roland version-11884
 Tags: System
 
 Package: enigma2-plugin-extensions-xklass
