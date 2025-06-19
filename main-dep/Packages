@@ -114,24 +114,24 @@ SHA512: 7506f01c62e9dbff11abbbcdbc60fab22f4712c8374d722d4f569e8da34e53153a11bf79
 Homepage: friendsforroland.github.io/oscam
 Description: dep-roland-oscam version-11884-emu
 
-Package: dep-oscam-installer-oscam
+Package: dep-roland-oscam
 Architecture: all
-Version: 11880
+Version: 11884
 Priority: optional
 Section: softcams
-Source: https://i.tv-lounge.eu
-Maintainer: OSCam-Installer <oscam-installer@proton.me>
-Provides: oscam-installer-oscam
+Source: friendsforroland.github.io/oscam
+Maintainer: Roland
+Provides: oscam-roland
 Depends: libusb-1.0-0 (>= 1.0.0)
-Replaces: oscam-installer-oscam
+Replaces: oscam-roland
 Filename: ./dep-roland-oscam.deb
-Size: 3749936
-MD5sum: 9368abb74d0dc2c402fd69648f187d6f
-SHA1: bfef0148fff6095d0f53ca4ac7326237010d6a4f
-SHA256: 379d2df9d72afd823b8a4c8d328d8c15c6a2b44eabf83735045b7d9f5cb8b5c0
-SHA512: 402e74eeca77e9808c31c526e442694128f43a2dda5ccc04a560f2e723178a9967bf48e6fc61b9a0dbadb182ceb8b3464adde812af037ddc917e7e0b10b7d92b
-Homepage: https://i.tv-lounge.eu
-Description: dep-oscam version-11880
+Size: 2096584
+MD5sum: f0526c2e5b657779873d0062d604febd
+SHA1: 1bdfa691eeb8ba6882cc61c7ab6b252ca10d57ff
+SHA256: 1d7f6ab16e4d22e57e3a8bdfcc75b0b99fd3da161c8dbc5c3239916bf4fdcf91
+SHA512: 14b610b8f572bb913a3f6aefe51f4601ec46906c854b1aad972b3435322286c9c9da79311a819da3a86da1f4218235d5e1e40171e519e5149df631ad1a9db4a5
+Homepage: friendsforroland.github.io/oscam
+Description: dep-roland-oscam version-11884
 
 Package: enigma2-plugin-extensions-oscam-installer-settings-icam-astra-multi
 Architecture: all
