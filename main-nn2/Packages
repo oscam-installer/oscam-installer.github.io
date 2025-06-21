@@ -192,3 +192,41 @@ SHA512: af1afac4cb945dc34eb05cc1193a2be1679cbd87658c6be9306c03695d7b78f1a59437b3
 Homepage: https://i.tv-lounge.eu
 Description: newnigma2-camd-oscam version-11884
 
+Package: newnigma2-camd-roland-oscam-emu
+Architecture: all
+Version: 11884-emu
+Priority: optional
+Section: base
+Source: friendsforroland.github.io/oscam
+Maintainer: Roland
+Provides: oscam-emu-roland
+Depends: libusb-1.0-0 (>= 1.0.0)
+Replaces: oscam-emu-roland
+Filename: ./newnigma2-camd-roland-oscam-emu.deb
+Size: 2233144
+MD5sum: 6dd01df362309387c03991b7dd323d8a
+SHA1: 979f75c7e29f521511d9633d2d305c860fea4d66
+SHA256: 1458663049b7e348f397a23862d9b819dea57939788ca0a4f60476df2c2660c1
+SHA512: 38378d1116bc4a0f6357499fca95ea6c81dddbf2044ccdb798463f4edb4fea2079da524fcffafdec81d14ae92e66867662bd45741484ed82e32dd5a9a19f625e
+Homepage: friendsforroland.github.io/oscam
+Description: newnigma2-camd-roland-oscam version-11884-emu
+
+Package: newnigma2-roland-camd-oscam
+Architecture: all
+Version: 11884
+Priority: optional
+Section: base
+Source: friendsforroland.github.io/oscam
+Maintainer: Roland
+Provides: oscam-roland
+Depends: libusb-1.0-0 (>= 1.0.0)
+Replaces: oscam-roland
+Filename: ./newnigma2-camd-roland-oscam.deb
+Size: 2095084
+MD5sum: d0d233949e97b96ea71e28954866011f
+SHA1: 437a339ef320cc90ce9e1fd2f9e83be7c8ee5dea
+SHA256: bedbead70c8a789b14ea934d7cfd0dee359a4e8ec10fca0b99da714bf9e6ab9e
+SHA512: e79c289560e8fca820430e71ffda78f329bcfe89018d0c9a5dd2336ce460b2255743d02733e5727cd5b99e3732939f77f3de951f455cdf8a4b785015da6c2df2
+Homepage: friendsforroland.github.io/oscam
+Description: newnigma2-camd-roland-oscam version-11884
+

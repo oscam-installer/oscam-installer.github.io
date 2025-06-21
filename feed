@@ -31,11 +31,9 @@ if [ -e /etc/opkg ]; then
 
 elif [ -e /etc/apt/sources.list.d ]; then
 	if [ -e /etc/apt/sources.list.d/gp4-unstable-all-feed.list ] > /dev/null 2>&1; then
-	echo '{ "entrys": [ {"name":"Oscam-Installer Packages", "hide":0, "sort":1, "desc":"Oscam-Installer Packages", "filter":"enigma2-plugin-extensions-oscam-installer"},
-	{"name":"Oscam-Installer Packages", "hide":0, "sort":1, "desc":"Oscam-Installer Packages", "filter":"enigma2-plugin-systemplugins-oscam-installer"},
-	{"name":"Oscam-Installer Packages", "hide":0, "sort":1, "desc":"Oscam-Installer Packages", "filter":"enigma2-plugin-oscam-installer"},
-	{"name":"Oscam-Installer Packages", "hide":0, "sort":1, "desc":"Oscam-Installer Packages", "filter":"oscam-installer"},
-	{"name":"Oscam-Installer Packages", "hide":0, "sort":1, "desc":"Oscam-Installer Packages", "filter":"enigma2-plugin-softcams-oscam-installer"}] }' | tee /etc/enigma2/AddonFilterlist_oscam-installer.json > /dev/null
+	echo '{ "entrys": [ {"name":"Oscam-Installer Packages", "hide":0, "sort":1, "desc":"Oscam-Installer Packages", "filter":"enigma2-plugin-extensions-oscam-installer"}] }' | tee /etc/enigma2/AddonFilterlist_oscam-installer.json > /dev/null
+	
+	echo '{ "entrys": [ {"name":"Oscam-Roland Packages", "hide":0, "sort":1, "desc":"Oscam-Roland Packages", "filter":"enigma2-plugin-extensions-roland-oscam"}] }' | tee /etc/enigma2/AddonFilterlist_oscam-roland.json > /dev/null
 	fi
 	if grep -qs -i "newnigma2" /etc/image-version ; then
 	  feed2="deb [trusted=yes] http://feed.tv-lounge.eu/main-nn2 ./"
