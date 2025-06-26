@@ -83,16 +83,16 @@ Description: IPTV Xtream Codes/XUI One playlists player by KiddaC
 
 Package: enigma2-plugin-extensions-bouquetmakerxtream
 Architecture: all
-Version: 1.52-20250430
+Version: 1.54-20250520
 Priority: optional
 Section: misc
 Maintainer: kiddac
-Filename: ./enigma2_plugin_extensions_bouquetmakerxtream_1_52_20250430_all.deb
-Size: 1182180
-MD5sum: 1d7d2adb66b26da6f8d7495ac76a170d
-SHA1: c0c34f7a4200a695cb820063974a6dd3228b87a9
-SHA256: f6ac1550b04679a6a8cc656d3967baebb98a53e656b569d254b34c9851e29303
-SHA512: 6c69f47f79722055cffd9c051e4608a67332df8c0ae0eddd8513cad6049a0714de3d025493aa08126f527990fd85baa931175fcf86c59c7310aadb087bcde808
+Filename: ./enigma2_plugin_extensions_bouquetmakerxtream_1_54_20250520_all.deb
+Size: 1182724
+MD5sum: 008e489ab2ad19f967abf5664d85dbe6
+SHA1: a220465f037214e913e16f321aca0b1e3c29f8eb
+SHA256: 72b148d29641177ffc07647a2ef1e16d4e2554486eadcd3cc510c3118b6b6069
+SHA512: 57459e4e5ae77af9f84412b0ffb8064eda985b59a02ce4b62a475e624dc6b7372a94ea221b222cf5a1530bf8de684b709a6d8812215b0180f1e0d3ff4435bdcc
 Description: Bouquet Maker Xtream - IPTV bouquet maker
 
 Package: enigma2-plugin-extensions-oscam-installer-ncam
