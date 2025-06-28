@@ -1,0 +1,34 @@
+[reader]
+label                         = lower_card
+protocol                      = internal
+device                        = /dev/sci0
+enable                        = 0
+caid                          = 
+detect                        = cd
+mhz                           = 450
+cardmhz                       = 2700
+group                         = 1,2,3
+emmcache                      = 1,1,2,0
+
+[reader]
+label                         = upper_card
+protocol                      = internal
+enable                        = 0
+device                        = /dev/sci1
+caid                          = 
+detect                        = cd
+mhz                           = 450
+cardmhz                       = 2700
+group                         = 1
+emmcache                      = 1,1,2,0
+
+[reader]
+label                         = easymouse
+protocol                      = mouse
+enable                        = 0
+device                        = /dev/ttyUSB0
+caid                          = 
+detect                        = cd
+group                         = 1
+emmcache                      = 1,1,2,0
+
