@@ -184,6 +184,20 @@ SHA512: 318d23e68f849b9ed10fb46f94d78cb837acb782c9ffa23c3e8b4dbef7c8030ab3149077
 Homepage: https://i.tv-lounge.eu
 Description: picons-icam version-20250207
 
+Package: enigma2-plugin-extensions-bouquetmakerxtream
+Architecture: all
+Version: 1.55-20250706
+Priority: optional
+Section: misc
+Maintainer: kiddac
+Filename: ./enigma2-plugin-extensions-bouquetmakerxtream_1.55-20250706_all.deb
+Size: 1183564
+MD5sum: fa724dabfeefc7d94075f12adc9c049b
+SHA1: e015052f004fc0ebfdda484045e648d766a2cceb
+SHA256: b88574741fee6a30d693725b2aa2a6b69b5f4cb6983c1ddf7d66fc4ec304616d
+SHA512: 10855c4bb4a0430a27c51edd2ef7d1bbedf1c49e3d7ec51da2d6a1695dcdabb5ccf519e176a237fc36001f962052d38f21509d7759fb1af34cdca27566fc6731
+Description: Bouquet Maker Xtream - IPTV bouquet maker
+
 Package: enigma2-plugin-extensions-xklass
 Architecture: all
 Version: 1.54-20250706
@@ -215,18 +229,4 @@ SHA1: 04f4fd7026ce503340d96f7a8c7de56fb58a08ca
 SHA256: 35cd0482d0a43f5063ccc42f2baaa6f940687245f500c136200d53f26a62d7de
 SHA512: a5c4bd1567cd5a23561a864dfa4f36464e9c0cecb9584bb70658e8ce81b503611fc52609a73a10318e6b0fd8f68555c6a7eae934b225c95edca70ef005262f8a
 Description: IPTV Xtream Codes/XUI One playlists player by KiddaC
-
-Package: enigma2-plugin-extensions-bouquetmakerxtream
-Architecture: all
-Version: 1.54-20250520
-Priority: optional
-Section: misc
-Maintainer: kiddac
-Filename: ./enigma2_plugin_extensions_bouquetmakerxtream_1_54_20250520_all.deb
-Size: 1182724
-MD5sum: 008e489ab2ad19f967abf5664d85dbe6
-SHA1: a220465f037214e913e16f321aca0b1e3c29f8eb
-SHA256: 72b148d29641177ffc07647a2ef1e16d4e2554486eadcd3cc510c3118b6b6069
-SHA512: 57459e4e5ae77af9f84412b0ffb8064eda985b59a02ce4b62a475e624dc6b7372a94ea221b222cf5a1530bf8de684b709a6d8812215b0180f1e0d3ff4435bdcc
-Description: Bouquet Maker Xtream - IPTV bouquet maker
 
