@@ -200,18 +200,18 @@ Description: Bouquet Maker Xtream - IPTV bouquet maker
 
 Package: enigma2-plugin-extensions-xklass
 Architecture: all
-Version: 1.55-20250708
+Version: 1.56-20250714
 Priority: optional
 Section: misc
 Source: https://www.linuxsat-support.com
 Maintainer: kiddac
 Depends:
-Filename: ./enigma2-plugin-extensions-xklass_1.55-20250708_all.deb
-Size: 5389696
-MD5sum: e90ff7b98fcb6e4369b56f7159353c1d
-SHA1: 6bb40d478ef7c08bbafa908f5ce7b49d337cf412
-SHA256: bbcf9f768617de25766f523f28ab96f791e5e4e6554975acd04326eff26381bc
-SHA512: 0ec73d50c93c2e6ac679abecafcc815d6f70126f0a84b15bce5d966d586b9359fc715ec1766731f048108068ba2f1ad7b50a6b08c63bda56741119e76d10dc3a
+Filename: ./enigma2-plugin-extensions-xklass_1.56-20250714_all.deb
+Size: 5389608
+MD5sum: eef609f8f07ba8b7156049d352013354
+SHA1: 07e317776d48f39d0e4a970f256718fc86d2f27f
+SHA256: 3e61c80b28b530c8f40df932a11ebd38689db55deb641ae0bb0b244c12c09154
+SHA512: c8973ee84c6769ae7210b0a741257e1f160a9ff08da926879c8eedcaccbc208903af3a0ff8a775d98646ef9eeb8ad10564059938e7dda52f7e397fb35340132e
 Description: IPTV Xtream Codes/XUI One playlists player by KiddaC
 
 Package: enigma2-plugin-extensions-xstreamity
