@@ -86,7 +86,7 @@ X-DreamOS-Tags: System
 
 Package: enigma2-plugin-extensions-oscam-installer-oscam-emu
 Architecture: all
-Version: 11884-emu
+Version: 11885-emu
 Priority: optional
 Section: base
 Source: https://i.tv-lounge.eu
@@ -95,18 +95,18 @@ Provides: oscam-installer-oscam-emu
 Depends: libusb-1.0-0 (>= 1.0.0)
 Replaces: oscam-installer-oscam-emu
 Filename: ./enigma2-plugin-extensions-oscam-installer-oscam-emu.deb
-Size: 3275328
-MD5sum: aefaa75f4631df1224659a1dc306d789
-SHA1: 000d8c65867ff2faf28282a7904a150252f86fcd
-SHA256: 44bf6ef5eaa9ea3c55d04db1a13f0ed3ad2433cd7909049d54af459ed1df6a0c
-SHA512: 67444864f7d05004e6148696c3e3e30c9e900f484f7191a8095a396476f0f9a9cc62f1c9da4a0587a54a02b5d18fb99b08fb9a8460e3c8c32ca715224ad940a1
+Size: 3277316
+MD5sum: d6b63984e71327ae34ac848d0555698f
+SHA1: cb91f37e3ed18d84f4991d3e29a967cce814970f
+SHA256: 7546f2a72c614b4641d4681600c7ed14302a651e2afe521183faef5385d75a4d
+SHA512: c956e89dfd16fbf9c3c471a75d73e538e20d3d7ae0fed0f6f0002c09365954d5430bdeea0dc1a361564fe8ab16dfe82544749345ac7e3444036aed476b8296dd
 Homepage: https://i.tv-lounge.eu
-Description: enigma2-plugin-softcams-oscam version-11884-emu
+Description: enigma2-plugin-softcams-oscam version-11885-emu
 Tags: System
 
 Package: enigma2-plugin-extensions-oscam-installer-oscam-neon-emu
 Architecture: all
-Version: 11884-neon-emu
+Version: 11885-neon-emu
 Priority: optional
 Section: base
 Source: https://i.tv-lounge.eu
@@ -115,18 +115,18 @@ Provides: oscam-installer-oscam-neon-emu
 Depends: libusb-1.0-0 (>= 1.0.0)
 Replaces: oscam-installer-oscam-neon-emu
 Filename: ./enigma2-plugin-extensions-oscam-installer-oscam-neon-emu.deb
-Size: 3273940
-MD5sum: 8a1b5b18cd8a2a147f6532f7781c820c
-SHA1: 2b3680690b6f1be351fa52c5f6abedcc148360e5
-SHA256: 1116d865e4f6b3005810068b4a60a7cb8198ba4d7b363fed40a31a1bfa3b55d8
-SHA512: 90ebf366563c9ed3fb565603d658678f144823c772916f2d8fc8c7d277a2e5c5b87d9ac07f97e1c312b764dd54ec0cdc586a67ac7a5b7d50e7f92b844d116953
+Size: 3276384
+MD5sum: 8d643fbd1c9206096da68f1c0c72a8e6
+SHA1: cab9fa654e3a907854a79442d2e1ae39df4d19eb
+SHA256: 0418f6a2531a491a993b88e06f6a0628bbf1016db6d2836b1e8851a7c6ec8e1c
+SHA512: a3a1b601df74c7bf0590371e5cd0b6ae8d1ceced6119e48b26b85af7fd25f183065d1162a02b9a70f20704fdc8a26c514500f50c69e5176a34211d93013dfee5
 Homepage: https://i.tv-lounge.eu
-Description: enigma2-plugin-softcams-oscam version-11884-neon-emu
+Description: enigma2-plugin-softcams-oscam version-11885-neon-emu
 Tags: System
 
 Package: enigma2-plugin-extensions-oscam-installer-oscam-neon
 Architecture: all
-Version: 11884-neon
+Version: 11885-neon
 Priority: optional
 Section: base
 Source: https://i.tv-lounge.eu
@@ -135,18 +135,18 @@ Provides: oscam-installer-oscam-neon
 Depends: libusb-1.0-0 (>= 1.0.0)
 Replaces: oscam-installer-oscam-neon
 Filename: ./enigma2-plugin-extensions-oscam-installer-oscam-neon.deb
-Size: 3143556
-MD5sum: 679103a3767f1676cea1a12f9840d1a2
-SHA1: 759a664dc05c23970502fcd6cefbb723fcb3cf31
-SHA256: 14e9ebae79ea21c2a328d24fa174f45a6f9534a75274ac5d5c16cb3ad2668976
-SHA512: 056d928c202bd3b2ee736ea196fc0e7a85b35c78b6fd2b659e8ecd82741af2139be4c0d1da0af619e4ba97f7a753fe36e2eadf937c3046c89f780dca3c09d6b7
+Size: 3144300
+MD5sum: c56045764dbd9366ff944f683377bc83
+SHA1: a17a892c74e3faa7759fdbfceabb3f7ded300310
+SHA256: bfdbb35148bf1ce0f659a4a9675de00d6a8b4f46762ce7c3ad4f8cedeeb0f4bb
+SHA512: 8f0f96aea144676c37c605c110b396f3d4d1d5c154bb41f8c185f70fc21d2c954c2bba5927c82698e483b3c305fb0b6592c4e854d5de8735d5434999be3749b2
 Homepage: https://i.tv-lounge.eu
-Description: enigma2-plugin-softcams-oscam version-11884-neon
+Description: enigma2-plugin-softcams-oscam version-11885-neon
 Tags: System
 
 Package: enigma2-plugin-extensions-oscam-installer-oscam
 Architecture: all
-Version: 11884
+Version: 11885
 Priority: optional
 Section: base
 Source: https://i.tv-lounge.eu
@@ -155,13 +155,13 @@ Provides: oscam-installer-oscam
 Depends: libusb-1.0-0 (>= 1.0.0)
 Replaces: oscam-installer-oscam
 Filename: ./enigma2-plugin-extensions-oscam-installer-oscam.deb
-Size: 3144268
-MD5sum: fb870daec667f78582021a847be01fd6
-SHA1: 52d93822b29529362d157e5f2c2bcff8334615c8
-SHA256: 137e392007e4ffb0683efbd72daab48811a9d14eb2a281fd888234aef2adc87f
-SHA512: aff86f1c6cac86c8e92b0482555b5eb66aa47fde4b4a9cdbafcf7d4d139435573209bcbf1982436aaa8d6dea481ccd482e98f13b3d44f087af64bc5afbf3e09b
+Size: 3144804
+MD5sum: e86d57d97d165a6477656e99a1d77d57
+SHA1: 8b63dc382b3841561fa249f3f45aeb5391f18feb
+SHA256: 8e3498797218e6bd93fa09dcaccc6996a47ce8cdfd70d40cbeef5b87b49389c7
+SHA512: 40387dd8584254c2a6246e1021ffb2842315f11e78e1a222eaf49f257c32a0af721073a9deb754a324cbd6e3ecefc14e8a29b30620683b84a677d142c5aa56aa
 Homepage: https://i.tv-lounge.eu
-Description: enigma2-plugin-softcams-oscam version-11884
+Description: enigma2-plugin-softcams-oscam version-11885
 Tags: System
 
 Package: enigma2-plugin-extensions-roland-oscam-emu
