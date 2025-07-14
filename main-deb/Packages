@@ -51,16 +51,16 @@ Description: picons-icam version-20250207
 
 Package: enigma2-plugin-extensions-bouquetmakerxtream
 Architecture: all
-Version: 1.56-20250707
+Version: 1.57-20250714
 Priority: optional
 Section: misc
 Maintainer: kiddac
-Filename: ./enigma2-plugin-extensions-bouquetmakerxtream_1.56-20250707_all.deb
-Size: 1183852
-MD5sum: 3502921e419b4b799762e85df6e8ea50
-SHA1: c986497a86080f57e25eb387111b7e0596259270
-SHA256: c1ce42e1b470190037ae42c72635aa7f0eff5fe9b65e3df4a9c6359cce7d6d9c
-SHA512: f25724fcbdab398a38ee16e972de1033c14e297db9288d883f5c9f338c96772900d87405b90a4dee5c5395b195d90ae6cf1e1e383b2d0854bd41734a71582f3a
+Filename: ./enigma2-plugin-extensions-bouquetmakerxtream_1.57-20250714_all.deb
+Size: 1188396
+MD5sum: 3bbbf7d9eb847a1309cb47af2b0466ed
+SHA1: 48c83c41f87d5d5b4685187e14c1a488666e211e
+SHA256: 94280df6c54e8165275bf0c4214902b14ae9e2278f2c007e17e5a74badaffa39
+SHA512: 1c6990e40f03fe1f2d292c19d60bc91a39c938bcf99a4716fc73e38f7b5e414ab8a63a9bcc59f109471c0681e1579bb8f2f12a630aa285ccd88873211dc41f91
 Description: Bouquet Maker Xtream - IPTV bouquet maker
 
 Package: enigma2-plugin-extensions-oscam-installer-ncam
