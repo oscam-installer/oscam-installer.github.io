@@ -49,6 +49,25 @@ SHA512: 318d23e68f849b9ed10fb46f94d78cb837acb782c9ffa23c3e8b4dbef7c8030ab3149077
 Homepage: https://i.tv-lounge.eu
 Description: picons-icam version-20250207
 
+Package: enigma2-plugin-extensions-vpnmanager
+Architecture: all
+Version: 1.2.0
+Priority: optional
+Section: extra
+Source: https://www.boxpirates.to
+Maintainer: murxer <support@boxpirates.to>
+Depends: python-requests, python-json, openvpn, bash, python-beautifulsoup4
+Conflicts: enigma2-plugin-extensions-goldenpanel, enigma2-plugin-extensions-satvenus-panel, enigma2-plugin-extensions-goldenfeed, enigma2-plugin-extensions-persiandreambox, enigma2-plugin-extensions-dreamosat-downloader
+Filename: ./enigma2-plugin-extensions-WireGuard_ONE_TWO.deb
+Size: 997868
+MD5sum: 244015b79ad7bbc7a490ee227bf45be0
+SHA1: 5bb217f6eea55a41a39ad7fea518a0c8f73dc8bc
+SHA256: 47c386c18c053665a225fe93568b9fe4290b4e676f10d5c8b9abb2478d547264
+SHA512: 4bae9f1bfe107cdaca182c0b68e39d1ede635d1a4fb113c33febaf461e6cdf731a89d84f560e63f137d3192a4fc80870c8c96872e0561f3bf786f9dabc242e85
+Homepage: https://www.boxpirates.to
+Description: OpenVpn Verbindungen verwalten
+OE: vpnmanager-1.2.0
+
 Package: enigma2-plugin-extensions-bouquetmakerxtream
 Architecture: all
 Version: 1.57-20250714
