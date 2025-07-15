@@ -142,11 +142,11 @@ Source: https://i.tv-lounge.eu
 Maintainer: OSCam-Installer <oscam-installer@proton.me>
 Depends:
 Filename: ./enigma2-extensions-oscam-installer-settings--icam-astra-multi.deb
-Size: 2784
-MD5sum: cb42d02f470c5804d5dcf9d1427b0757
-SHA1: 62890be4f3eba2033f9cef72104480b573270684
-SHA256: 4c7cb05407aca841f50bf29e7ff5e52bf3bb87ca4940e86c53b45e06e11d5bed
-SHA512: 574156e449f54369ef7b55d4c7d90c346431858f463a0fcfba9860c253479162601d4d37c8d4ec788439f9051daa8ff342edaed2160eb38a43b2c2a5ae649fcb
+Size: 2820
+MD5sum: 4c6400c1bd16812b0c620c5017c67cf2
+SHA1: 0a6f01428244da46d74c8153e0fb369e84f435db
+SHA256: 53e1986c163c95965f45df751fbc78625c895eb004d860a67a678da05c18746f
+SHA512: 6de200dc2bf7e3023f33810156e34da81dbf2a092827cfed1b406b1bcf104659211dc24a47b54a27fa5344478ae5c896f46c1ba922b09d6121bfe5dd0c96040c
 Homepage: https://i.tv-lounge.eu
 Description: settings icam astra multi
 
@@ -159,11 +159,11 @@ Source: https://i.tv-lounge.eu
 Maintainer: OSCam-Installer <oscam-installer@proton.me>
 Depends:
 Filename: ./enigma2-extensions-oscam-installer-settings--icam-astra-single.deb
-Size: 2436
-MD5sum: a3b20ac7e8f62588ebe1f4b4015eb2c7
-SHA1: 31fc514de4b5770ad3041bee075cbefe70e740ee
-SHA256: a480b9a797c93feed845fd19b6d709843c778d9696ebaf53f10c92d77b264ea1
-SHA512: 8c021e82340dedac28a4adc5d9fc41e24528210d6a6de1321a0eb61b974068e04cf4df6138304bd02108358e1c79fa51a3073acf4e56fad7b353b98c3dab61ca
+Size: 2456
+MD5sum: d22253fc0a66d80e4e57df8af0d755af
+SHA1: fe5dca650946126def1941669fa1560cccc2bf91
+SHA256: 91c1827e2c28d7e2a1c92c1d883c859fba6d68aab56e6132ac666ec9a5d45d1d
+SHA512: b4eacbd154798d5247331f8fba1bc05c818d1c3c9cd4025c1cb9b7f0125b851be56fa0b4c4187fa14695c17f25412491aeb4dc17b330e519f32a228e543e7bd5
 Homepage: https://i.tv-lounge.eu
 Description: settings icam astra single
 
@@ -176,11 +176,11 @@ Source: https://i.tv-lounge.eu
 Maintainer: OSCam-Installer <oscam-installer@proton.me>
 Depends:
 Filename: ./enigma2-extensions-oscam-installer-settings--picons-icam.deb
-Size: 597672
-MD5sum: 532e4a2ff143a3f81340c9e50cb72c8c
-SHA1: 7969cd49bede29be96ceb41eab59e0d3eaca4b09
-SHA256: f724cc2abd2abb0b735e29e0198fd723805b73fc6928de691dad3edee467ad2c
-SHA512: 318d23e68f849b9ed10fb46f94d78cb837acb782c9ffa23c3e8b4dbef7c8030ab31490776c39df7aed1b601eefc205dc1ae9e9aef43dceb2c35bd3503c885e50
+Size: 589076
+MD5sum: 691a6124096b1c9f14200594f668843f
+SHA1: c966e9181ccf38d60ae514024ad4add13b1e7460
+SHA256: c357485d8f3ba2042342e4203e9d74469e873fe5246eef00bd428821544585ca
+SHA512: 7129908d7e4085a534936ff4dc63ca770f2d02aa847a52c8d242c84e839978098871dc654badfe2de68a41f7d882353221f779533108b1a416776689581f245d
 Homepage: https://i.tv-lounge.eu
 Description: picons-icam version-20250207
 
@@ -205,16 +205,16 @@ OE: vpnmanager-1.2.0
 
 Package: enigma2-plugin-extensions-bouquetmakerxtream
 Architecture: all
-Version: 1.57-20250714
+Version: 1.58-20250715
 Priority: optional
 Section: misc
 Maintainer: kiddac
-Filename: ./enigma2-plugin-extensions-bouquetmakerxtream_1.57-20250714_all.deb
-Size: 1188396
-MD5sum: 3bbbf7d9eb847a1309cb47af2b0466ed
-SHA1: 48c83c41f87d5d5b4685187e14c1a488666e211e
-SHA256: 94280df6c54e8165275bf0c4214902b14ae9e2278f2c007e17e5a74badaffa39
-SHA512: 1c6990e40f03fe1f2d292c19d60bc91a39c938bcf99a4716fc73e38f7b5e414ab8a63a9bcc59f109471c0681e1579bb8f2f12a630aa285ccd88873211dc41f91
+Filename: ./enigma2-plugin-extensions-bouquetmakerxtream_1.58-20250715_all.deb
+Size: 1188492
+MD5sum: 170d413ff4d114fd5ffc534be84b468a
+SHA1: ce546bd8d32d1e02b7ac5a641ad5c063c6c84638
+SHA256: 24d93346b881fc735bbffe71516448d197741b9547ae71105d1cd65e6da9c3aa
+SHA512: 86235406af8faf7d17041d3b429dd5fddda8c1a3ed658e42ae380d5db1448ea6ef6777fe45cb861d26d30c528ee284be6bca102294e622fa261256b8125fa40a
 Description: Bouquet Maker Xtream - IPTV bouquet maker
 
 Package: enigma2-plugin-extensions-xklass
