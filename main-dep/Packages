@@ -235,17 +235,17 @@ Description: IPTV Xtream Codes/XUI One playlists player by KiddaC
 
 Package: enigma2-plugin-extensions-xstreamity
 Architecture: all
-Version: 5.04-20250714
+Version: 5.05-20250716
 Priority: optional
 Section: misc
 Source: https://www.linuxsat-support.com
 Maintainer: kiddac
 Depends:
-Filename: ./enigma2-plugin-extensions-xstreamity_5.04-20250714_all.deb
-Size: 4062120
-MD5sum: fa40a45cbf980077459f3befb82257e3
-SHA1: 4a657eedd68bcc00f7fca3dd970c2e5e4fca9df8
-SHA256: f6c13cddfeb1dd7a3f69a89ff706faec7fbca77e3a1bc865c70b3fce834a9528
-SHA512: c3b1872a5faf28083efd1d9b4c7a55cc285d868c13f4bd1f55cd5a16a741272954866cf614fc5320e60146164c19e98d9088b1310826157a1510c858702e5ad3
+Filename: ./enigma2-plugin-extensions-xstreamity_5.05-20250716_all.deb
+Size: 4061836
+MD5sum: ac4d394680ee8d7cc0b46e3877fd1b8b
+SHA1: fce61a13ae5774956b305f77e89d64d679aa2026
+SHA256: 8d9b0aaf340d8cda37c0d84db58a487d4159cc79f2968fe64f729fc7134960c4
+SHA512: cf60589e58c2b4105f95ae725565ea443b9cd5a4be68a439e55344a48dfdd493dfbd39e562c98557b81a4867dbabc5e23830e35cceee708236ef0299a9adf407
 Description: IPTV Xtream Codes/XUI One playlists player by KiddaC
 
