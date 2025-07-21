@@ -194,11 +194,11 @@ Provides: oscam-emu-roland
 Depends: libusb-1.0-0 (>= 1.0.0)
 Replaces: oscam-emu-roland
 Filename: ./enigma2-plugin-extensions-roland-oscam-emu.deb
-Size: 2233548
-MD5sum: dffd4e86109c584d0830e5810c263b3c
-SHA1: cd03239963362ef2af47cad69aa56ae56d0a4107
-SHA256: cb31c130994a81f15942cbfa8c251f28307ebde633619a5b70b1f9242d70e4b6
-SHA512: c5e8e018533dd0b5acae0a75c95aece4934a23f71d7e62fb126b24a09f7f7dd40bf4ed38ae868b99d1522e0d722957bdec60abc95a2f75ba53371b88c6ccc6ed
+Size: 2233508
+MD5sum: d26949045b823404218cb95f9b1eefb9
+SHA1: 8e442c1cde11862303228705fa274059d83eca54
+SHA256: ab258e25e79e10609893db357e121b4837e445c07ae9a5df4848fe0af9db0b54
+SHA512: 2f203244a33beb46145bf6cdf227aaffd3f6915587d7524ff732dea1e95f557a939e75a329ca663d49a17e7e2b3f86d46980bfb9a623271b73190a7d59261372
 Homepage: friendsforroland.github.io/oscam
 Description: enigma2-plugin-softcams-roland-oscam-emu version-11886
 Tags: System
@@ -214,11 +214,11 @@ Provides: oscam-roland
 Depends: libusb-1.0-0 (>= 1.0.0)
 Replaces: oscam-roland
 Filename: ./enigma2-plugin-extensions-roland-oscam.deb
-Size: 2090760
-MD5sum: 59b3f5b9f2fba2bc0b831c77f68dfc69
-SHA1: 7fb47e5cffe4880281cab6a4a2c4ed44526321b6
-SHA256: 14dcbd7cfe12e1a44753669b2f2a407468b03eb8bc17a959da4871e4f2b9434c
-SHA512: a74db841a3f1027526b3a6688f9962e6e63915c6a19cc4ef7e468e75159da19ab406028f9b852da108526fb3d196f2039acb3d52182b1e0e02949dee5822c9ef
+Size: 2092600
+MD5sum: 230994e94883a6a481b8706b4a7d2c57
+SHA1: ab79432b21daaee866b55ffc38b5babf45a59d41
+SHA256: 3ce241f02bae1f5fb98f26627307f53b8ab2f0665054f7e0f9de4809c43f40f1
+SHA512: a5f6741fe89e8047d5d6dcbdc540afc1ce4a5d68dca842ff878c8fd97e374a4eafae3b4cf0203c51ff1f5692f163d70a0e5aa9544c1333bf898be7f8da64b318
 Homepage: friendsforroland.github.io/oscam
 Description: enigma2-plugin-softcams-roland-oscam version-11886
 Tags: System
