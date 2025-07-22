@@ -116,7 +116,7 @@ Description: IPTV Xtream Codes/XUI One playlists player by KiddaC
 
 Package: enigma2-plugin-extensions-oscam-installer-ncam
 Architecture: all
-Version: 0~gitc6e4653
+Version: 0~git94eee9d
 Priority: optional
 Section: base
 Source: https://i.tv-lounge.eu
@@ -125,13 +125,13 @@ Provides: oscam-installer-ncam
 Depends: libusb-1.0-0 (>= 1.0.0)
 Replaces: oscam-installer-ncam
 Filename: ./newnigma2-camd-oscam-installer-ncam.deb
-Size: 3504172
-MD5sum: 1c45b5491ef23024c72b9f7850bcdd33
-SHA1: c934baa27f22f0d7132345aff5148e6a1e5b8166
-SHA256: 1d5771b6c1d2217a0fcda7e95726805105b0e654655381207394e78622dea4fe
-SHA512: 7f96aef0fa2eb269893470f97ed3c49e9de79a33c9275049707436fb7d3bc231bb53ef827afd6b7499d2e549796598b3a29bd48443a6ed41bf8a058776f05433
+Size: 3502600
+MD5sum: e14f39ad2b8ee62273736a392093e6f4
+SHA1: a77a781f3123b8062490b93f35d5f668c484b691
+SHA256: 7256e53cfa6d25d4a6701769f023ddff2033ba1b04107271694428592b970344
+SHA512: 6b517def433c9c9ce84966b26ff7b1ee9d224ac680fe23f8e7b731aeef1f2abf5fa1de6db60eac6982bf9175630bdba28993a7b38052eb57cc37f71ebe2e8736
 Homepage: https://i.tv-lounge.eu
-Description: enigma2-plugin-softcams-ncam version-gitc6e4653
+Description: enigma2-plugin-softcams-ncam version-git94eee9d
 OE: enigma2-plugins
 X-DreamOS-Tags: System
 
