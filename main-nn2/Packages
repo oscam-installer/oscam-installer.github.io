@@ -49,26 +49,6 @@ SHA512: 7129908d7e4085a534936ff4dc63ca770f2d02aa847a52c8d242c84e839978098871dc65
 Homepage: https://i.tv-lounge.eu
 Description: picons-icam version-20250207
 
-Package: enigma2-plugin-extensions-multibootselector
-Architecture: all
-Version: 1.14
-Priority: optional
-Section: extra
-Source: https://github.com/oe-alliance/MultiBootSelectorPlugin
-Maintainer: OE-Alliance Team
-Depends: bash
-Conflicts: multiboot-selector
-Replaces: multiboot-selector
-Filename: ./enigma2-plugin-extensions-MultiBootSelectorPlugin_1.14-r0_all.deb
-Size: 20804
-MD5sum: 11ca27124949dbcf4989a2bb99f9fc7b
-SHA1: 20941032520abea05f227fa4d940395ad24c87ea
-SHA256: f57c22d2f9fcef0afbcd5f9d285dddb443925592787c9abe911c17ffdfa34fee
-SHA512: dd6e0fbf12da991965dc7ad73efd62aacda222e64d220c70763f9a9af61d9dff2a2b2168b4dd9dd3cf9ea3418b5e108f5c232517b720ee9e688ca713f51fed41
-Homepage: https://www.opena.tv
-Description: Basic python frontend for multiboot-selector.sh to simply select the slot to boot from.
-License: GPL-3.0
-
 Package: enigma2-plugin-extensions-vpnmanager
 Architecture: all
 Version: 1.2.0
@@ -117,6 +97,26 @@ SHA1: a8649bf15313e6f81aa99842b2cf23ca7b20474b
 SHA256: db99a3d820be2fe10772e37d526d1d17dce4a4ef442e510e07907f6be900d2df
 SHA512: 733a08a7bf16177b205c3741a5fd8bb9da47a351351c438b15aba623675f67e7fd0fb2d002bc62a804dc088e2397d604fefab062c13cb5375c20ac0ea40b621c
 Description: IPTV Ministra stalker player by KiddaC
+
+Package: enigma2-plugin-extensions-multibootselector
+Architecture: all
+Version: 1.14
+Priority: optional
+Section: extra
+Source: https://github.com/oe-alliance/MultiBootSelectorPlugin
+Maintainer: OE-Alliance Team
+Depends: bash
+Conflicts: multiboot-selector
+Replaces: multiboot-selector
+Filename: ./enigma2-plugin-extensions-multibootselector_1.14-r0_all.deb
+Size: 20812
+MD5sum: aac281d5c36e284f1429cd9bd70f2a7e
+SHA1: 658f5313f92e6bdef7364a270570af478c6ed28c
+SHA256: b5946d5e9c1a05faa7974b8021c1d2b826e524f5a7a6d08a92d6c0388ecaa0d6
+SHA512: bed6a37ac651211ce8db3eacf5a2850d1a250de706bc6d2109426860861d64a3517769c155f759c1b57db5cd851fe23c792e326a2eef1ff25343b0c1735071ff
+Homepage: https://www.opena.tv
+Description: Basic python frontend for multiboot-selector.sh to simply select the slot to boot from.
+License: GPL-3.0
 
 Package: enigma2-plugin-extensions-xklass
 Architecture: all
