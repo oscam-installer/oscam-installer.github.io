@@ -49,6 +49,26 @@ SHA512: 7129908d7e4085a534936ff4dc63ca770f2d02aa847a52c8d242c84e839978098871dc65
 Homepage: https://i.tv-lounge.eu
 Description: picons-icam version-20250207
 
+Package: enigma2-plugin-extensions-multibootselector
+Architecture: all
+Version: 1.14
+Priority: optional
+Section: extra
+Source: https://github.com/oe-alliance/MultiBootSelectorPlugin
+Maintainer: OE-Alliance Team
+Depends: bash
+Conflicts: multiboot-selector
+Replaces: multiboot-selector
+Filename: ./enigma2-plugin-extensions-MultiBootSelectorPlugin_1.14-r0_all.deb
+Size: 20804
+MD5sum: 11ca27124949dbcf4989a2bb99f9fc7b
+SHA1: 20941032520abea05f227fa4d940395ad24c87ea
+SHA256: f57c22d2f9fcef0afbcd5f9d285dddb443925592787c9abe911c17ffdfa34fee
+SHA512: dd6e0fbf12da991965dc7ad73efd62aacda222e64d220c70763f9a9af61d9dff2a2b2168b4dd9dd3cf9ea3418b5e108f5c232517b720ee9e688ca713f51fed41
+Homepage: https://www.opena.tv
+Description: Basic python frontend for multiboot-selector.sh to simply select the slot to boot from.
+License: GPL-3.0
+
 Package: enigma2-plugin-extensions-vpnmanager
 Architecture: all
 Version: 1.2.0
