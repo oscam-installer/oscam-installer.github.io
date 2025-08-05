@@ -255,18 +255,18 @@ License: GPL-3.0
 
 Package: enigma2-plugin-extensions-xklass
 Architecture: all
-Version: 1.58-20250722
+Version: 1.59-20250805
 Priority: optional
 Section: misc
 Source: https://www.linuxsat-support.com
 Maintainer: kiddac
 Depends:
-Filename: ./enigma2-plugin-extensions-xklass_1.58-20250722_all.deb
-Size: 5389956
-MD5sum: 7523209a9d02597d0a1d12b8b06831fe
-SHA1: d23ae2bd0df65f560201c8db22d18e7a26e3f8d7
-SHA256: 960e42c088bd3174dcbb5783c288ffdcb5aa0381d380c76d5f3dfb4607359830
-SHA512: 32f19807b661e52ce9e4402aa4086d38c5b80b2064e090831e3312893ceeef99b27679fdac08223cba3938631b05f9e4bf0569a6179f49c12985a091331ff296
+Filename: ./enigma2-plugin-extensions-xklass_1.59-20250805_all.deb
+Size: 5389808
+MD5sum: eb3f297bbb53713c13bf03f3a88d56e8
+SHA1: e222fce4eddb97f9c0ccfc443082d9e1c4956606
+SHA256: f9711ab6bba69273af7c86890eb3e25838bd824f43916ba368b2acd0ba24a4bd
+SHA512: 3a481911b540d03331d6231b726c87a412846d1d2142deb631ba28899794799c27d4dbb4f3e54233144042821e58d1ce7abc5fdf3a3b91d055ef9f164509c1d2
 Description: IPTV Xtream Codes/XUI One playlists player by KiddaC
 
 Package: enigma2-plugin-extensions-xstreamity
