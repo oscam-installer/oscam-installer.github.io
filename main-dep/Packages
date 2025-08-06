@@ -210,11 +210,11 @@ Priority: optional
 Section: misc
 Maintainer: kiddac
 Filename: ./enigma2-plugin-extensions-bouquetmakerxtream_1.59-20250805_all.deb
-Size: 11608
-MD5sum: 8407376a49b3e1401da24307e27b3486
-SHA1: 9f24306e9d6d3476df0127243a91ec11276bd24f
-SHA256: 029714c32d9e1bdd8752362e4c902783799bdc1c7f82f9dc1fd2af337a75919f
-SHA512: 16360398630f6174fbfa978f17915a0bcfde9a872192a31d63d73e938ef7859fec914d0123bfd3fdacd7fc78162e44ce5d80d419dfe912b191b51d84dc5411e2
+Size: 1188388
+MD5sum: 798d57d891d0fb0167e5cb91be87e421
+SHA1: 2bd8d75b3399ce6163600d1eb979c83cbee21015
+SHA256: 00225ac5cf9d24a589b9d930b7f3a498f4e9d9c4fccdf09ff0e0f1b996b86791
+SHA512: 076f3ba13d83041200274fab3cae0e84f7d61fb15d5c9043f8bbe0a5e31649a4cf1a3b00d8af8b133916c132fd1c160ab443d82828fd734a5a035a37cc13bee6
 Description: Bouquet Maker Xtream - IPTV bouquet maker
 
 Package: enigma2-plugin-extensions-estalker
