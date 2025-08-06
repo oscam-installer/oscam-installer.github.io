@@ -217,21 +217,21 @@ SHA256: 00225ac5cf9d24a589b9d930b7f3a498f4e9d9c4fccdf09ff0e0f1b996b86791
 SHA512: 076f3ba13d83041200274fab3cae0e84f7d61fb15d5c9043f8bbe0a5e31649a4cf1a3b00d8af8b133916c132fd1c160ab443d82828fd734a5a035a37cc13bee6
 Description: Bouquet Maker Xtream - IPTV bouquet maker
 
-Package: enigma2-plugin-extensions-estalker
+Package: enigma2-plugin-extensions-xklass
 Architecture: all
-Version: 1.04-20250805
+Version: 1.60-20250806
 Priority: optional
 Section: misc
 Source: https://www.linuxsat-support.com
 Maintainer: kiddac
 Depends:
 Filename: ./enigma2-plugin-extensions-estalker_1.04-20250805_all.deb
-Size: 2126372
-MD5sum: c42a4b3c6d1b2642fbd69eb7b0931c1a
-SHA1: 0509a416d6a65c7287ea594f10549d251780fb3d
-SHA256: a74e9564315ac9d46bf7e75b1cbd246b5d953bbe9cccd0f12d4d036d8b22e934
-SHA512: 7c1dcfc6569e53d5832736b7b7723e4235b045f11eb05d22831d295794faebf5423f93aa958598b4be4c954f1fdc9e16d60ba14498708cbf3d74efbeaf15b73a
-Description: IPTV Ministra stalker player by KiddaC
+Size: 1097500
+MD5sum: 00e83839988102947a47960c13fef599
+SHA1: fd67ebe6a6928fc12eb83c0849e9c8986b877b7f
+SHA256: 50f453d6e329088d7e0999aa33d59236913258763c241ed737a941b4e1a00d79
+SHA512: a1f8d861075068182f3585cb38094cc473641f6cc4fd09f265f272e82ef40a7301fd30901ba2df05e615d468f87dc393ac7abe23725d116428519eb211973824
+Description: IPTV Xtream Codes/XUI One playlists player by KiddaC
 
 Package: enigma2-plugin-extensions-multibootselector
 Architecture: all
