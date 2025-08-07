@@ -91,11 +91,11 @@ Source: https://www.linuxsat-support.com
 Maintainer: kiddac
 Depends:
 Filename: ./enigma2-plugin-extensions-estalker_1.05-20250806_all.deb
-Size: 2125908
-MD5sum: af117728a2c1eb172335ba95a8c3749b
-SHA1: 09500d6464553287ed2cb754de7b5661795a8d29
-SHA256: fcc5f7adea048e4e72b6632c61430bf4c0f1386e9945dc1cd24f9901bd23a9da
-SHA512: 33a15fdd22dea74c4b680f39154d4b2756c3171c7e9d8328c2921488de4a6fae129ec3b1202dc7a89b125db5131cebe4e077300646e9f0f3c6c4ea034a8a472d
+Size: 2126376
+MD5sum: 62d8eb8ae1f4153e6d04443dbc1f2749
+SHA1: c1ebc580cd023778f87aa6424f30ed9ac8d7edd9
+SHA256: ae3f2bf93e7f4060dbd3e79ab49d7501c61cb9ab85259563cc4f5e0f624db53d
+SHA512: 6450c302872ab36776b08658d5d71e1402cb9487e920a811d98db8860cef51605e3f0cc6c030dc7f04bb5ba8650bd6da0fd74468d789897addf909d86f94889b
 Description: IPTV Ministra stalker player by KiddaC
 
 Package: enigma2-plugin-extensions-multibootselector
