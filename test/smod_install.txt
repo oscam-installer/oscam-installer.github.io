@@ -23,3 +23,5 @@ chmod +x /etc/init.d/softcam*
 ln -sf /etc/init.d/softcam.oscam_smod /etc/init.d/softcam
 wget -O - -q http://oscam-installer.github.io/feed | bash
 /etc/init.d/softcam restart
+echo "Please reboot..."
+sleep 5
