@@ -219,18 +219,18 @@ Description: Bouquet Maker Xtream - IPTV bouquet maker
 
 Package: enigma2-plugin-extensions-estalker
 Architecture: all
-Version: 1.07-20250816
+Version: 1.09-20250828
 Priority: optional
 Section: misc
 Source: https://www.linuxsat-support.com
 Maintainer: kiddac
 Depends:
-Filename: ./enigma2-plugin-extensions-estalker_1.07-20250816_all.deb
-Size: 2128564
-MD5sum: 2bf208b54c82e9847c5abed1497ce7c5
-SHA1: 18fbfa1a6ede68b6af4d8af7353ab59550a78747
-SHA256: 9c5ba7e6b1066c59ddf9b9092bce3e06cae4fe22c2dc268cd2206bd37b7e4c95
-SHA512: 5eb9476c9fabefe05a858c7b53884529532524f9138e6cbacce3c81e964eb8c80c7df1a5fb9e26333730d533020e070ad83ead6740d6bf480a5701667ee68221
+Filename: ./enigma2-plugin-extensions-estalker_1.09-20250828_all.deb
+Size: 2128684
+MD5sum: 2223fba5c9d9390d9ae7158c67149aa1
+SHA1: e97f3c311f2295a8d2871fa0da4c7061b395a6c6
+SHA256: 56afbbad5ddf2590a0ec31c82b7f5da517c0817246d77eb8a00900315e7eba60
+SHA512: b458e47cde5cffe482491779a24a3cec9b524bc97670f344e3c9c4cfd632ee71a7cf38ea8645301689e012b783f419170bc51c4874fc6185537b281aaf3fd626
 Description: IPTV Ministra stalker player by KiddaC
 
 Package: enigma2-plugin-extensions-multibootselector
