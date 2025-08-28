@@ -205,16 +205,16 @@ OE: vpnmanager-1.2.0
 
 Package: enigma2-plugin-extensions-bouquetmakerxtream
 Architecture: all
-Version: 1.60-20250807
+Version: 1.61-20250827
 Priority: optional
 Section: misc
 Maintainer: kiddac
-Filename: ./enigma2-plugin-extensions-bouquetmakerxtream_1.60-20250807_all.deb
-Size: 1188636
-MD5sum: f28caf87f64f3d501478b667d585678d
-SHA1: bfc1df6a15d9bebefd57c73ce04df5d9cf923acc
-SHA256: 1d7d9565c7fc9bf19c2625d7b1c0348441b5565e7663bb957b21c3d033a7b98a
-SHA512: b1776c2042a6a9dca5d7299297ce4982802ec35f22083427934c156ed44eb9e02c76cc112e1f936f2e75367071ef632f7b5afbfca8cdefc60fd5ed5adf5379d6
+Filename: ./enigma2-plugin-extensions-bouquetmakerxtream_1.61-20250827_all.deb
+Size: 1188896
+MD5sum: 9a26ad850b4d2c352501b9c2351fc245
+SHA1: 9168221955ef6e5a5b9252aa55c5b8528b934500
+SHA256: 616fd0023f81f009e01f1601bcd04b23b0ef5d8dd592a2ff3662c69b67cbfc8a
+SHA512: d597ccd72b199d91980b3c0b6a2a153ea1ebfc0b49b234c30b8edc6d86a2bca3a5e585da33dae577b24d1f7e239f58990295f05620f1db01bee9f59171498baf
 Description: Bouquet Maker Xtream - IPTV bouquet maker
 
 Package: enigma2-plugin-extensions-estalker
