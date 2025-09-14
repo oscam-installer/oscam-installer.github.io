@@ -1,0 +1,52 @@
+#!/bin/bash
+
+if [ -n "$(uname -m | grep armv7l)" ]; then
+	 _arch=arm
+        feed1="src/gz oscam-installer-cam http://feed.tv-lounge.eu/arm"
+	echo $feed1 | tee -a /etc/opkg/3rd-party-feed.conf > /dev/null
+elif [ -n "$(uname -m | grep aarch64)" ]; then
+    _arch=aarch64
+	if [ -e /etc/apt/sources.list.d/oscam-installer.list ]; then
+	rm /etc/apt/sources.list.d/oscam-installer.list
+	fi
+    feed1="deb [trusted=yes] http://feed.tv-lounge.eu/aarch64 ./"
+    echo $feed1 | tee -a /etc/apt/sources.list.d/oscam-installer.list > /dev/null
+elif [ -n "$(uname -m | grep mips)" ]; then
+    _arch=mips
+    feed1="src/gz oscam-installer-cam http://feed.tv-lounge.eu/mipsel"
+	echo $feed1 | tee -a /etc/opkg/3rd-party-feed.conf > /dev/null
+else
+    echo -e "\e[31m Sorry, your device does not have the proper Emu \e[0m"
+    exit 1
+fi
+
+if [ -e /etc/opkg ]; then
+    if [ -r /usr/lib/enigma2/python/Plugins/SystemPlugins/VTIPanel ]; then
+	  feed2="src/gz oscam-installer-main http://feed.tv-lounge.eu/main-vti"
+	else
+	  feed2="src/gz oscam-installer-main http://feed.tv-lounge.eu/main-ipk"
+	fi
+	echo $feed2 | tee -a /etc/opkg/3rd-party-feed.conf > /dev/null
+	opkg update
+
+elif [ -e /etc/apt/sources.list.d ]; then
+	if [ -e /etc/apt/sources.list.d/gp4-unstable-all-feed.list ] > /dev/null 2>&1; then
+	echo '{ "entrys": [ {"name":"Oscam-Installer Packages", "hide":0, "sort":1, "desc":"Oscam-Installer Packages", "filter":"enigma2-plugin-extensions-oscam-installer"}] }' | tee /etc/enigma2/AddonFilterlist_oscam-installer.json > /dev/null
+	
+	echo '{ "entrys": [ {"name":"Oscam-Roland Packages", "hide":0, "sort":1, "desc":"Oscam-Roland Packages", "filter":"enigma2-plugin-extensions-roland-oscam"}] }' | tee /etc/enigma2/AddonFilterlist_oscam-roland.json > /dev/null
+	fi
+	if grep -qs -i "newnigma2" /etc/image-version ; then
+	  feed2="deb [trusted=yes] http://feed.tv-lounge.eu/main-nn2 ./"
+	else
+      feed2="deb [trusted=yes] http://feed.tv-lounge.eu/main-deb ./"
+	fi
+	echo $feed2 | tee -a /etc/apt/sources.list.d/oscam-installer.list > /dev/null
+	apt install -y coreutils > /dev/null 2>&1
+	apt-key adv --keyserver keyserver.ubuntu.com --recv-keys AEEC34D2E6D9BF07 >/dev/null 2>&1
+	apt update
+else
+    echo "neither opkg nor apt was found ... bailing out"
+    exit 1
+fi
+
+echo "OSCam-Installer Feed for $_arch installed."
