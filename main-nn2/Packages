@@ -249,7 +249,7 @@ Description: newnigma2-camd-oscam version-11889
 
 Package: newnigma2-camd-roland-oscam-emu
 Architecture: all
-Version: 11888-emu
+Version: 11889-emu
 Priority: optional
 Section: base
 Source: friendsforroland.github.io/oscam
@@ -258,17 +258,17 @@ Provides: oscam-emu-roland
 Depends: libusb-1.0-0 (>= 1.0.0)
 Replaces: oscam-emu-roland
 Filename: ./newnigma2-camd-roland-oscam-emu.deb
-Size: 2235248
-MD5sum: e379ffb205589e23e4eef016aadf3473
-SHA1: 2f30c88e09b624ef71e8f838517a553def75eff0
-SHA256: 4779709441b59aeb790996e332cc98b5153365f828610931395be9ea402b37d9
-SHA512: 5b2111656b5b574d8714ae7ce3d6e57d1beb7ed344617a5193fd1f9940f482088a1992bd0ea809d1ae8b26d43fb4fd9d5528b7ad4008a17910ce0a7c2336b260
+Size: 2232776
+MD5sum: 97ac7feff0750c4d0c45d462d4890d50
+SHA1: dd713e39b010ec1afec380ab375c3b7328fed213
+SHA256: c03875872f70d4c0080be9d3c7cefaeeb8f7c6d804b51608f06c1aebc58a0197
+SHA512: 613a5dfd1ecff4bcea4e7443acceef84339bbe1a596983ebfb050a0b4357fd7e1dc091e7cab4c73325ba68d0788a6158c0ba5a47b5ac89a6b78d40c61a2a69c5
 Homepage: friendsforroland.github.io/oscam
-Description: newnigma2-camd-roland-oscam version-11888-emu
+Description: newnigma2-camd-roland-oscam version-11889-emu
 
 Package: newnigma2-roland-camd-oscam
 Architecture: all
-Version: 11888
+Version: 11889
 Priority: optional
 Section: base
 Source: friendsforroland.github.io/oscam
@@ -277,11 +277,11 @@ Provides: oscam-roland
 Depends: libusb-1.0-0 (>= 1.0.0)
 Replaces: oscam-roland
 Filename: ./newnigma2-camd-roland-oscam.deb
-Size: 2094096
-MD5sum: 636cbaef9f0ba9338b06411edd69bc23
-SHA1: a43241bff6b22ef0291cb18287fb3019b52d2394
-SHA256: a62d6dc7fc5ad0e12d0f890835b370add33ac4c2b86f87cb1adc96c2ce12df1a
-SHA512: ff054b322d783e00746a493029367d4459b29529d4e958c6089c0ce485991840727579e32cc3d7ba4f4db9bc770849d2c77a8a01f6faca130c3ea99e9e0c3197
+Size: 2095116
+MD5sum: 284965f2d41c16de4ca65ff96c8c9e30
+SHA1: b48b76b2fdaa1fb4382563241b5ac8481f32c75e
+SHA256: da03e7c35dca30508dc5eb5664305979f1bbd6516357123864f6c3ab67cc3e1c
+SHA512: ad3cdf8c8896178cfa82d2a216d8aa502ddf86063349e71330e5f69ef6145f67fc04802ebe8f063b25af36c968b2afc24fceed0f84bac27e68d26c6b3476b87c
 Homepage: friendsforroland.github.io/oscam
-Description: newnigma2-camd-roland-oscam version-11888
+Description: newnigma2-camd-roland-oscam version-11889
 
