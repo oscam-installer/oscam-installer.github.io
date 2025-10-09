@@ -97,7 +97,7 @@ Description: dep-oscam version-11869
 
 Package: dep-roland-oscam-emu
 Architecture: all
-Version: 11888-emu
+Version: 11889-emu
 Priority: optional
 Section: softcams
 Source: friendsforroland.github.io/oscam
@@ -106,17 +106,17 @@ Provides: oscam-emu-roland
 Depends: libusb-1.0-0 (>= 1.0.0)
 Replaces: oscam-emu-roland
 Filename: ./dep-roland-oscam-emu.deb
-Size: 2232564
-MD5sum: f88a69423bf6565da6336fe508538d29
-SHA1: b9d46aa4ad850dc7971d41f4d13543c76489c54b
-SHA256: 74f0df0bd88a99ed8cb749b4bed3b4b87b168554eff6ebbec5bc05108189aa7c
-SHA512: 87c06c4a71b523600d738c8383c27e88f89000a1e7ee7aeee7c039715214343409460b6e007973f983e8f40e6e79cee1b80900ed92918637b48c321f23090876
+Size: 2233028
+MD5sum: 5bc8e619efce4899909e9534e9ef739b
+SHA1: 8d101283d7e7d10a3246967512aef5aa04ecadab
+SHA256: f23c30c94ed6bf4042b6178e6230ed407e0f0e7ee8605cea3040e9b9aaf4284c
+SHA512: 7cae1eb520c20fb67a3478067cad499369be098084e0f8b12a3dc07b4bb456b6db8037537f8b02234a300d971a4e971efe5ac5eec84e77692c0b2f0f3b1a85b1
 Homepage: friendsforroland.github.io/oscam
-Description: dep-roland-oscam version-11888-emu
+Description: dep-roland-oscam version-11889-emu
 
 Package: dep-roland-oscam
 Architecture: all
-Version: 11888
+Version: 11889
 Priority: optional
 Section: softcams
 Source: friendsforroland.github.io/oscam
@@ -125,13 +125,13 @@ Provides: oscam-roland
 Depends: libusb-1.0-0 (>= 1.0.0)
 Replaces: oscam-roland
 Filename: ./dep-roland-oscam.deb
-Size: 2094124
-MD5sum: 74914ac8cfeeb253c1e883c03c7c4ddd
-SHA1: c187f751c0b6be74dd320220f0624784309606a3
-SHA256: 943bbc57133245e451537ae13904aba0b94e660e92969937ecbf1394179724e8
-SHA512: 70ff6c52f68323d29b8c766c044ddc7ab412d302a59bae16002034a217234054b7ed10850eeae7b2468e648f0804431e07bc37ab8d0492dd6de96ff65032691b
+Size: 2095560
+MD5sum: 55fe144c26c2419719899bd3f3fb7db6
+SHA1: 2f4dde3657a2a1c8ff158d0eaa285e36cd8bc04d
+SHA256: c0110f3105762a9a131ae5257680fded90c0813eeb7a3fc9bea319a7d777fb38
+SHA512: dab1d20e7d34a6ff4deff148ad0fe5586acd232e45165efcb85b21e8fe3c20c13a3b0901f06aa476bfa888502e00ce35702ecbd0ac2863aa99ebd9f315fb8175
 Homepage: friendsforroland.github.io/oscam
-Description: dep-roland-oscam version-11888
+Description: dep-roland-oscam version-11889
 
 Package: enigma2-plugin-extensions-oscam-installer-settings-icam-astra-multi
 Architecture: all
