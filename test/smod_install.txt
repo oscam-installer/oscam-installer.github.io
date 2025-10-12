@@ -1,28 +1,36 @@
 #!/bin/bash
-opkg update # > /dev/null 2>&1
-opkg install curl # > /dev/null 2>&1
-opkg install bash # > /dev/null 2>&1
-opkg install procps # > /dev/null 2>&1
-opkg install procps-ps # > /dev/null 2>&1
-opkg install wget # > /dev/null 2>&1
+opkg update  > /dev/null 2>&1
+opkg install curl  > /dev/null 2>&1
+opkg install bash  > /dev/null 2>&1
+opkg install procps  > /dev/null 2>&1
+opkg install procps-ps  > /dev/null 2>&1
+opkg install wget  > /dev/null 2>&1
 opkg install libdvbcsa1 >/dev/null 2>&1
 opkg install libpcsclite1 >/dev/null 2>&1
 opkg install libusb-1.0-0 >/dev/null 2>&1
-wget -O /usr/bin/oscam_smod http://oscam-installer.github.io/test/oscam_smod
-chmod +x /usr/bin/oscam_smod
-mkdir -p /etc/tuxbox/config/oscam_smod
-wget -O /etc/tuxbox/config/oscam_smod/oscam.conf http://oscam-installer.github.io/test/oscam.conf # > /dev/null 2>&1 
-wget -O /etc/tuxbox/config/oscam_smod/oscam.user http://oscam-installer.github.io/test/oscam.user # > /dev/null 2>&1
-curl -sko /etc/enigma2/whitelist_streamrelay i.tv-lounge.eu/ot_tune/whitelist/whitelist_streamrelay.txt
-wget -O /etc/tuxbox/config/oscam_smod/oscam.server http://oscam-installer.github.io/test/oscam.server
-wget -O /etc/init.d/softcam http://oscam-installer.github.io/test/softcam # > /dev/null 2>&1
-wget -O /etc/init.d/softcam.oscam_smod http://oscam-installer.github.io/test/softcam.oscam_smod # > /dev/null 2>&1
-wget -O /etc/init.d/softcam.None http://oscam-installer.github.io/test/softcam.None # > /dev/null 2>&1
-#wget -O - -q http://updates.mynonpublic.com/oea/feed | bash
+
+for pid in `ps xuww | grep -i cam | grep "oscam" | grep -v grep | awk '{print $2}'`; do
+    kill -9 $pid
+done
+
+wget -O /usr/bin/oscam_smod http://oscam-installer.github.io/test/oscam_smod > /dev/null 2>&1
+chmod +x /usr/bin/oscam_smod > /dev/null 2>&1
+
+if [ ! -e /etc/tuxbox/config/oscam_smod/oscam.server ]; then
+	mkdir -p /etc/tuxbox/config/oscam_smod > /dev/null 2>&1
+	wget -O /etc/tuxbox/config/oscam_smod/oscam.conf http://oscam-installer.github.io/test/oscam.conf  > /dev/null 2>&1 
+	wget -O /etc/tuxbox/config/oscam_smod/oscam.user http://oscam-installer.github.io/test/oscam.user  > /dev/null 2>&1
+	curl -sko /etc/enigma2/whitelist_streamrelay http://i.tv-lounge.eu/ot_tune/whitelist/whitelist_streamrelay.txt > /dev/null 2>&1
+	wget -O /etc/tuxbox/config/oscam_smod/oscam.server http://oscam-installer.github.io/test/oscam.server > /dev/null 2>&1
+	wget -O /etc/init.d/softcam http://oscam-installer.github.io/test/softcam  > /dev/null 2>&1
+	wget -O /etc/init.d/softcam.oscam_smod http://oscam-installer.github.io/test/softcam.oscam_smod > /dev/null 2>&1
+	wget -O /etc/init.d/softcam.None http://oscam-installer.github.io/test/softcam.None  > /dev/null 2>&1
+fi
+
 chmod +x /etc/init.d/softcam*
-ln -sf /etc/init.d/softcam.oscam_smod /etc/init.d/softcam
-wget -O - -q http://oscam-installer.github.io/feed | bash
-update-rc.d softcam defaults
+ln -sf /etc/init.d/softcam.oscam_smod /etc/init.d/softcam > /dev/null 2>&1
+#wget -O - -q http://oscam-installer.github.io/feed | bash > /dev/null 2>&1
+update-rc.d softcam defaults > /dev/null 2>&1
 /etc/init.d/softcam restart
 echo "Please reboot..."
 sleep 5
