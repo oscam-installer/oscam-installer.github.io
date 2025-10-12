@@ -173,7 +173,7 @@ X-DreamOS-Tags: System
 
 Package: newnigma2-camd-oscam-installer-oscam-emu
 Architecture: all
-Version: 11889-emu
+Version: 11890-emu
 Priority: optional
 Section: base
 Source: https://i.tv-lounge.eu
@@ -182,17 +182,17 @@ Provides: oscam-installer-oscam-emu
 Depends: libusb-1.0-0 (>= 1.0.0)
 Replaces: oscam-installer-oscam-emu
 Filename: ./newnigma2-camd-oscam-installer-oscam-emu.deb
-Size: 3458032
-MD5sum: 8bdde23ad8f08fd64fb219fa32f62df0
-SHA1: dfed2361b69c030794182c8f274631780dcaccd0
-SHA256: 5830158a0daa48a6ee1797f43de7712b330b75812de3f7dfd288bb4f427829dc
-SHA512: 79579f911440d8152a341858160eb24f4d5eea0100bb8d8a6f443fa52382b09d805205a39228d99a0ddec8b5d34499ebe6fa124c80243f5b534d641b17a88b00
+Size: 3458828
+MD5sum: 92a6fc3c0454d49054a7540f39ffccc3
+SHA1: c44bec7a4649dc1a1d3bddca366ccd1f59a41013
+SHA256: f2d69e21c62f0d0c2ad231b5fda3acf5f3ade8f50a91b97d9f64e7132f89d806
+SHA512: 9889d416594fd7ce8de24b737724fea290b9daba056649cc829778bbf70a420d5ab130eb7fcc4bb2138abcfe984e51bb5009df758cb463cf6fd0353528f5b6c1
 Homepage: https://i.tv-lounge.eu
-Description: newnigma2-camd-oscam version-11889-emu
+Description: newnigma2-camd-oscam version-11890-emu
 
 Package: newnigma2-camd-oscam-installer-oscam-neon-emu
 Architecture: all
-Version: 11889-neon-emu
+Version: 11890-neon-emu
 Priority: optional
 Section: base
 Source: https://i.tv-lounge.eu
@@ -201,17 +201,17 @@ Provides: oscam-installer-oscam-neon-emu
 Depends: libusb-1.0-0 (>= 1.0.0)
 Replaces: oscam-installer-oscam-neon-emu
 Filename: ./newnigma2-camd-oscam-installer-oscam-neon-emu.deb
-Size: 3457112
-MD5sum: 91f962792b70f155a292bacae6857e3f
-SHA1: 400a62f08119452f9d2cc5994a6cf72402906077
-SHA256: 2ca7879681a1997e673ee1300085d43529ce47d65a7864ae79ccb347bbd1e654
-SHA512: 7a1469e3aa92119b7d0c01f864f137d4b1d59dd85334e8cb28f8f7acf539e90710cd6b7512735e2400cabbcd8f70b9e6872ea07d4ed0a1d427a8651e5284fc56
+Size: 3457704
+MD5sum: d7a1b447a509dddc06211ca52edd64ee
+SHA1: 9e027113fad175e8fc33b1817dc4e74aff7abe08
+SHA256: 5922dd6bc8e269dab39e7179ac3884bc0eb76e87da81de762adbeb9f6ee7d801
+SHA512: 9ce3409b81421e06d4bf4e1633b276b0926828676722f170bbc56605d7302ddeb506ca280f9a8ee6aa2c1a76360547b8279600c73cd435279e7c46abd857261f
 Homepage: https://i.tv-lounge.eu
-Description: newnigma2-camd-oscam version-11889-neon-emu
+Description: newnigma2-camd-oscam version-11890-neon-emu
 
 Package: newnigma2-camd-oscam-installer-oscam-neon
 Architecture: all
-Version: 11889-neon
+Version: 11890-neon
 Priority: optional
 Section: base
 Source: https://i.tv-lounge.eu
@@ -220,17 +220,17 @@ Provides: oscam-installer-oscam-neon
 Depends: libusb-1.0-0 (>= 1.0.0)
 Replaces: oscam-installer-oscam-neon
 Filename: ./newnigma2-camd-oscam-installer-oscam-neon.deb
-Size: 3326172
-MD5sum: 57db25590d1bc8a7cb0f4f1419ca16b7
-SHA1: 2bb57f0f6ad3bb3e84d8d1d3cb0cdcbefe8e77c5
-SHA256: 814d8ac8cc4b688c55a5c4432ba1c5b57362857ed75ea66ae65c29eca5efb659
-SHA512: b62203947b68ecc26faea6c473d3280e9a377a68cf3a8bb48d8f11ff3fdc13b6dedbd104937efbdfbf736208c946be174d297e9bcca8f686ba05db66040a4609
+Size: 3327188
+MD5sum: 81c7c90f0c164192c3220092dc49a6ab
+SHA1: bd4102632b2e80aeb6aee5ab2e434d61e49b2275
+SHA256: a931c3b0941c3c2d41ee829c1542ea19fc0dd05fc411fc601b88ed8143912227
+SHA512: 45019be93b305273dd304022281cfd113b4f6f2e233b789bcab8af950447d225571376937c820ccf8265ea1b1202b473871ce9a1d7fc1ace6d3bda97ac911c64
 Homepage: https://i.tv-lounge.eu
-Description: newnigma2-camd-oscam version-11889-neon
+Description: newnigma2-camd-oscam version-11890-neon
 
 Package: newnigma2-camd-oscam-installer-oscam
 Architecture: all
-Version: 11889
+Version: 11890
 Priority: optional
 Section: base
 Source: https://i.tv-lounge.eu
@@ -239,13 +239,13 @@ Provides: oscam-installer-oscam
 Depends: libusb-1.0-0 (>= 1.0.0)
 Replaces: oscam-installer-oscam
 Filename: ./newnigma2-camd-oscam-installer-oscam.deb
-Size: 3324924
-MD5sum: 66093e6fde3d4e349ab0d09d15ec2e52
-SHA1: c864073a07bef5623f256bbc82fb0c0a4c684dfa
-SHA256: ebf4f23f4289ed7c845925a2591426abf1cbebdf67abf55f9053ed08f44b98dd
-SHA512: c6e4bec88f1633a654179a191d620e7bcd31d21283918b42bba3e1d06fbaa2519e4d3fef611db377a8c0232454ee31ca9757632eb0bc42772c996dd1b78cb10f
+Size: 3325304
+MD5sum: c92ef4474751a155ba63c7567258b9cb
+SHA1: c44dac7f687fe8df7d716f463e34d9661cd5778c
+SHA256: a7cecb946da8304da203038076e27221eae6f258b2fe300ee57f4e225c41b54e
+SHA512: 1728d7b96091c677fed3f46a0f1ff3dc2fb7aa819297aec1c1d39241929141d6af6789ea8cc6e0d07057aa695998ab0d8b43544b394e3c41894dad7666c3bb83
 Homepage: https://i.tv-lounge.eu
-Description: newnigma2-camd-oscam version-11889
+Description: newnigma2-camd-oscam version-11890
 
 Package: newnigma2-camd-roland-oscam-emu
 Architecture: all
