@@ -221,7 +221,7 @@ Tags: System
 
 Package: enigma2-plugin-extensions-roland-oscam-emu
 Architecture: all
-Version: 11898
+Version: 11899
 Priority: optional
 Section: base
 Source: friendsforroland.github.io/oscam
@@ -230,18 +230,18 @@ Provides: oscam-emu-roland
 Depends: libusb-1.0-0 (>= 1.0.0)
 Replaces: oscam-emu-roland
 Filename: ./enigma2-plugin-extensions-roland-oscam-emu.deb
-Size: 2232368
-MD5sum: ed3480abf3ecc169653c441a0337646d
-SHA1: 70340766ded105ed9a32f39cf75a9b9ee5f3b596
-SHA256: 06ef9700b1efbb8e4ea726154598033af39cd131c9c8d3e2b9de3459413a618a
-SHA512: 96e0c930358d51234105583aa75eae2b917be7232473813ec9dea722dc33d238c950c87e0e2ac7670b42c560750421efe661c95db4711160b431acbb1afd788e
+Size: 2233904
+MD5sum: f3771e4a03885ff858f867addcfa8ce6
+SHA1: 276e8e619ab7cca373884042594962242ef36818
+SHA256: 202303032429183ee4b2af3e764f356cda71fa512026bf3f8fe64f95e160f208
+SHA512: 78f405d88debda2691b799f6a36745adeaf4a5f605f59e3a255aa9adb1b0364e673c1a0eb3e8de8892dfab2c617af77a7c95a9b5447c2759279c56518f501840
 Homepage: friendsforroland.github.io/oscam
-Description: enigma2-plugin-softcams-roland-oscam-emu version-11898
+Description: enigma2-plugin-softcams-roland-oscam-emu version-11899
 Tags: System
 
 Package: enigma2-plugin-extensions-roland-oscam
 Architecture: all
-Version: 11898
+Version: 11899
 Priority: optional
 Section: base
 Source: friendsforroland.github.io/oscam
@@ -250,13 +250,13 @@ Provides: oscam-roland
 Depends: libusb-1.0-0 (>= 1.0.0)
 Replaces: oscam-roland
 Filename: ./enigma2-plugin-extensions-roland-oscam.deb
-Size: 2090376
-MD5sum: 7059eb6595621e9a92f687930878a644
-SHA1: bc810acbd2c70d82c42e9737ebbe35b3805d465f
-SHA256: 082f3d0d7ff3d3c89fe3dc7bf580181dca87f20557c6294179f3eea82d37b9cc
-SHA512: dbc000353995eee0aa75232fc364d7245c867e69ebf2d16c47e90ae49414481a5deddefa36bb4281b7b5cead43684c43dd3101d899ea08d2b5eecab29058412a
+Size: 2086984
+MD5sum: 00559d9c1f7edc057f374ce992ae5b32
+SHA1: a98e8f262490431a2d594b9cc8bd59927a186c70
+SHA256: 2c1240a33729abfc10694686381cf45fef322c06247388124e597db5bc9e2433
+SHA512: 877ebf918f710a50d9710d2917eeda2c14dee508b6f83905ff832d89ec188b2f25ee49894a2af70c9eab1e426799da1d27ecbad9c323b603da51c4436b8ba3b4
 Homepage: friendsforroland.github.io/oscam
-Description: enigma2-plugin-softcams-roland-oscam version-11898
+Description: enigma2-plugin-softcams-roland-oscam version-11899
 Tags: System
 
 Package: enigma2-plugin-extensions-xklass
