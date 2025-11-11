@@ -106,11 +106,11 @@ Provides: oscam-emu-roland
 Depends: libusb-1.0-0 (>= 1.0.0)
 Replaces: oscam-emu-roland
 Filename: ./dep-roland-oscam-emu.deb
-Size: 2234460
-MD5sum: db8885c1f49985f7469e39690194ea4d
-SHA1: c851e45881c8c87513615cbd202ccd440335b253
-SHA256: 22f0bf2d52d5275f2c9dbc912b1ff7a2697b55dd0ab6fa03f7e32af879fc7768
-SHA512: 9f51a13f2b8de05f5c3b6ac452e0a85ec5828cf58a8165fc0823f7eff5aff6bef13387718d303e6b5d63756faeb221efda1a219f448471b9a434877d43f1b86c
+Size: 2232688
+MD5sum: 79eb0a6f6d8583ff4c75bae080b48afe
+SHA1: ed426be3cd743759b569a26c8ad2a4c9915ddd92
+SHA256: 0d3bc1d0f3effed01beec89e0a4c919cea0c00fba2aa1468bf8a3047ff91f89f
+SHA512: c219251b91bfce2121dc7d7e012260ce3421a0f155c85406d40639c0722a89daff9593de7d4c1c892baeec317dcde0141f7b242dca29f405a3b3b6b3961a00d6
 Homepage: friendsforroland.github.io/oscam
 Description: dep-roland-oscam version-11892-emu
 
@@ -125,11 +125,11 @@ Provides: oscam-roland
 Depends: libusb-1.0-0 (>= 1.0.0)
 Replaces: oscam-roland
 Filename: ./dep-roland-oscam.deb
-Size: 2094720
-MD5sum: 8b4324d09896a8f2c51f1764ab7782b7
-SHA1: f59c855501e8cb2e75b67aab7f0f61d9a97d6d72
-SHA256: 743a6e18de70b70a5fa555bd18a5f2f6573af35f22550fa90bcc909c5b0e4107
-SHA512: 44bfb8fb5341cfd631fa88df97d665b503448b14359e4d5d31ea99be1896a6d5e8e744ff4610a47d1d42534b045a04822e01c501ddbe7106956fb12ce0e3abbb
+Size: 2097076
+MD5sum: d04b466540677f923a45be42a3ffaacf
+SHA1: 225df6c6b0286389a5afe04d6342f8c4f43130d7
+SHA256: ad8410841b9edad3aac30f75c1f4bcc73365e4b484b67e4a5434242a8402d863
+SHA512: b455473b9dd53df3a96584680950ccb7804ebe925c9262a4f26552b0e324270a5ee1fd20965e9f2ed5a9c580407cf9c4cb982e52bbd535966b3feff214412e4a
 Homepage: friendsforroland.github.io/oscam
 Description: dep-roland-oscam version-11892
 
