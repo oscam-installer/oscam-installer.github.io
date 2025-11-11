@@ -258,11 +258,11 @@ Provides: oscam-emu-roland
 Depends: libusb-1.0-0 (>= 1.0.0)
 Replaces: oscam-emu-roland
 Filename: ./newnigma2-camd-roland-oscam-emu.deb
-Size: 2232432
-MD5sum: b8164f7b8ff4899e685ff36f4634b409
-SHA1: b684214ce98b0571cd5ae56899a2472273d19843
-SHA256: 5bffb6648f7040e866eec7e4674218507c3dc8eba6006fe46bdc7ee08b4545f7
-SHA512: 8af9b400714ae30d3c8e2517d89ab665c5ae8ae4c6b37bbedd31b55018d96b64ab69e74e96314d60ca2faeed0c43bb2fb421ab844994fa16e05fb7e50bfd3903
+Size: 2231936
+MD5sum: 54cefca372e3e8e0f1d00d29da974e58
+SHA1: 6f40b2bb61608aecb365531fe4bbec6be13c57c0
+SHA256: b59073cc57a9822fedf5c3ec2697c4db243434cf9f5e5c64e7da69e1d53f350a
+SHA512: 247502ed241460e96df343db82b09b622575a7d2eb26cb5d0ddeb82b5f2c2bcd9be0a670621d2a146c654f1f9f1377906760d1c20fc5586b9c97631e44f1fd74
 Homepage: friendsforroland.github.io/oscam
 Description: newnigma2-camd-roland-oscam version-11904-emu
 
@@ -277,11 +277,11 @@ Provides: oscam-roland
 Depends: libusb-1.0-0 (>= 1.0.0)
 Replaces: oscam-roland
 Filename: ./newnigma2-camd-roland-oscam.deb
-Size: 2095004
-MD5sum: 34af18adf8fb07537905ade1178d9baf
-SHA1: 69f885fc2c83adf8e6fd4d6c5daaa04f52402fb1
-SHA256: c18d3d0cb5a882d84245791705f023f35e774b215c3ea6884d84ffbbc2612e10
-SHA512: 652dca1b07961a2cbbd8489d23b206301640b0e5cde8b6d7c2e0eb834beccb17083184d4b96d50d1be9367cd488fe94756462238fe31fbd8a90feb283a3eea31
+Size: 2098028
+MD5sum: 1a044a3f2e7e35e3e6c313cfd99baa5d
+SHA1: 46d26eeef49db689753563fbef3140f6030338c7
+SHA256: 6fdc0bd4baba5b6711d821dba487d84ff186599962cbad71446cf725ba38dfd8
+SHA512: 039ab34fb1dee8b01e00c62c337626ad81bc3d38085e984e4347b23334168cfb4866b5983f80e4357082848f934f3c2c1059785af7fd4c096c7796a1b4ff3fab
 Homepage: friendsforroland.github.io/oscam
 Description: newnigma2-camd-roland-oscam version-11904
 
