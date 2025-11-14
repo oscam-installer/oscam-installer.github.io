@@ -253,20 +253,20 @@ Homepage: https://www.opena.tv
 Description: Basic python frontend for multiboot-selector.sh to simply select the slot to boot from.
 License: GPL-3.0
 
-Package: enigma2-plugin-extensions-xklass
+Package: enigma2-plugin-extensions-xstreamity
 Architecture: all
-Version: 1.69-20251111
+Version: 5.19-20251114
 Priority: optional
 Section: misc
 Source: https://www.linuxsat-support.com
 Maintainer: kiddac
 Depends:
-Filename: ./enigma2-plugin-extensions-xklass_1.69-20251111_all.deb
-Size: 5640576
-MD5sum: bd18522e7f87ff824ff6cb5ee59eb0da
-SHA1: 06b41185eaa7f79bcce0b8a35f9f88ff68f4330c
-SHA256: d70464de66088b78626ba810db637f7929bf6021a0b818cb7dec671eb24c1928
-SHA512: aae3896830da8c174c9d8332f9017cec43839cbabc50db1719a20c48cdae1b834aba27a13154cfe7e8e89328de7d68f9fb9f44b1cbfd7086b4cd5a87d878bcdc
+Filename: ./enigma2-plugin-extensions-xklass_1.70-20251114_all.deb
+Size: 337568
+MD5sum: fd2f80b00879d8033778629a0c92d1c1
+SHA1: c772b1b17fd4602a9b0cf0eb4498434a9c41ca4c
+SHA256: df888e541faa1513b549176b54d5f5c10eeb2ea0aaf91605d16f19c31353007f
+SHA512: f4c8d9012010983ed70350d8a65a47f4bf75f4caab8b7f49d365e009d6eff8db1bdcebf83e24d39a2d64854552ee94089d9e8d37ecd3ba8d112fbed4161ef162
 Description: IPTV Xtream Codes/XUI One playlists player by KiddaC
 
 Package: enigma2-plugin-extensions-xstreamity
