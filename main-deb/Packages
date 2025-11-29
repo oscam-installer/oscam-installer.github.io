@@ -259,20 +259,20 @@ Homepage: friendsforroland.github.io/oscam
 Description: enigma2-plugin-softcams-roland-oscam version-11906
 Tags: System
 
-Package: enigma2-plugin-extensions-xstreamity
+Package: enigma2-plugin-extensions-xklass
 Architecture: all
-Version: 5.19-20251114
+Version: 1.71-20251119
 Priority: optional
 Section: misc
 Source: https://www.linuxsat-support.com
 Maintainer: kiddac
 Depends:
-Filename: ./enigma2-plugin-extensions-xklass_1.70-20251114_all.deb
-Size: 337568
-MD5sum: fd2f80b00879d8033778629a0c92d1c1
-SHA1: c772b1b17fd4602a9b0cf0eb4498434a9c41ca4c
-SHA256: df888e541faa1513b549176b54d5f5c10eeb2ea0aaf91605d16f19c31353007f
-SHA512: f4c8d9012010983ed70350d8a65a47f4bf75f4caab8b7f49d365e009d6eff8db1bdcebf83e24d39a2d64854552ee94089d9e8d37ecd3ba8d112fbed4161ef162
+Filename: ./enigma2-plugin-extensions-xklass_1.71-20251119_all.deb
+Size: 5641484
+MD5sum: 02c55c1f7a8bca7f8a7c3f22a4c26d87
+SHA1: 826cf91a9cb6f7eb543e3aa0368bd586a4743a8f
+SHA256: 24df6e1ac6beae309660b61b4343e76f67c2eeddd22686b584fe66ec4789ea4b
+SHA512: 7182b4995ffc1a26cbb0b29b37ebd5b13f8ce5fc27552362291ed101faf541bd336ea1d02a8b4cfa5d193fcc696c914d4ad092418a348c8b2c866adfb547c3de
 Description: IPTV Xtream Codes/XUI One playlists player by KiddaC
 
 Package: enigma2-plugin-extensions-xstreamity
